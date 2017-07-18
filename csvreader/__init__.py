@@ -52,6 +52,10 @@ class CSVReader(object):
                 pos = pos + len(line.encode(self._encoding))
 
     def getLines(self, field, value):
+        if field not in self._indexes:
+            raise RuntimeError("Field " + field + " was not indexed")
+        if value not in self._indexes[field]:
+            return []
         """Get all lines for the given field and value as dicts."""
         positions = self._indexes[field][value]
         results = []

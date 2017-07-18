@@ -5,6 +5,6 @@ setup(
     description="Index and query large CSV files",
     author="Pieter Provoost",
     author_email="pieterprovoost@gmail.com",
-    version="0.1.0",
+    version="0.1.1",
     packages=["csvreader"]
 )

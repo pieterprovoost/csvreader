@@ -24,6 +24,8 @@ class TestCSVReader(unittest.TestCase):
     def testDev(self):
         occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"])
 
+        print occurrence.indexes()
+
         records = occurrence.getLines("scientificName", "Neomysis integer")
         print records
 
