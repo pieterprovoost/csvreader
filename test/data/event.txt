@@ -1,0 +1,726 @@
+id	datasetName	ownerInstitutionCode	eventID	parentEventID	eventDate	waterBody	locality	minimumDepthInMeters	maximumDepthInMeters	decimalLatitude	decimalLongitude	footprintWKT
+Cruise10	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise10		1995-03-22/1995-03-24	North Sea						
+Cruise12	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise12		1995-05-22/1995-05-24	North Sea						
+Cruise13	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise13		1995-06-19/1995-06-23	North Sea						
+Cruise14	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise14		1995-07-10/1995-07-13	North Sea						
+Cruise15	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise15		1995-08-17	North Sea						
+Cruise18	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise18		1995-12-18/1995-12-21	North Sea						
+Cruise4	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise4		1994-09-05/1994-09-09	North Sea						
+Cruise6	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise6		1994-10-03/1994-10-10	North Sea						
+Cruise62	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise62		1994-08-31/1994-09-02	North Sea						
+Cruise63	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise63		1996-04-16	North Sea						
+Cruise64	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise64		1996-04-25	North Sea						
+Cruise65	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise65		1995-09-23/1995-09-25	North Sea						
+Cruise66	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise66		1993-08-31/1993-09-02	North Sea						
+Cruise68	Hyperbenthic communities of the North Sea	MARBIOL-Ugent	Cruise68		1993-09-06/1993-09-09	North Sea						
+Cruise10:Station75:EventSorbeSledge966:Subsample300			Cruise10:Station75:EventSorbeSledge966:Subsample300	Cruise10:Station75:EventSorbeSledge966								
+Cruise12:Station103:EventSorbeSledge992:Subsample414			Cruise12:Station103:EventSorbeSledge992:Subsample414	Cruise12:Station103:EventSorbeSledge992								
+Cruise12:Station97:EventSorbeSledge986:Subsample390			Cruise12:Station97:EventSorbeSledge986:Subsample390	Cruise12:Station97:EventSorbeSledge986								
+Cruise13:Station108:EventSorbeSledge997:Subsample17345			Cruise13:Station108:EventSorbeSledge997:Subsample17345	Cruise13:Station108:EventSorbeSledge997								
+Cruise13:Station108:EventSorbeSledge997:Subsample17346			Cruise13:Station108:EventSorbeSledge997:Subsample17346	Cruise13:Station108:EventSorbeSledge997								
+Cruise13:Station108:EventSorbeSledge997:Subsample17348			Cruise13:Station108:EventSorbeSledge997:Subsample17348	Cruise13:Station108:EventSorbeSledge997								
+Cruise14:Station125:EventSorbeSledge1014:Subsample503			Cruise14:Station125:EventSorbeSledge1014:Subsample503	Cruise14:Station125:EventSorbeSledge1014								
+Cruise15:Station1674:EventSorbeSledge16403:Subsample17398			Cruise15:Station1674:EventSorbeSledge16403:Subsample17398	Cruise15:Station1674:EventSorbeSledge16403								
+Cruise15:Station1674:EventSorbeSledge16403:Subsample17399			Cruise15:Station1674:EventSorbeSledge16403:Subsample17399	Cruise15:Station1674:EventSorbeSledge16403								
+Cruise18:Station161:EventSorbeSledge1050:Subsample646			Cruise18:Station161:EventSorbeSledge1050:Subsample646	Cruise18:Station161:EventSorbeSledge1050								
+Cruise4:Station12:EventSorbeSledge903:Subsample42			Cruise4:Station12:EventSorbeSledge903:Subsample42	Cruise4:Station12:EventSorbeSledge903								
+Cruise4:Station14:EventSorbeSledge905:Subsample47			Cruise4:Station14:EventSorbeSledge905:Subsample47	Cruise4:Station14:EventSorbeSledge905								
+Cruise4:Station9:EventSorbeSledge900:Subsample30			Cruise4:Station9:EventSorbeSledge900:Subsample30	Cruise4:Station9:EventSorbeSledge900								
+Cruise6:Station19:EventSorbeSledge910:Subsample69			Cruise6:Station19:EventSorbeSledge910:Subsample69	Cruise6:Station19:EventSorbeSledge910								
+Cruise6:Station19:EventSorbeSledge910:Subsample70			Cruise6:Station19:EventSorbeSledge910:Subsample70	Cruise6:Station19:EventSorbeSledge910								
+Cruise62:Station522:EventSorbeSledge9670:Subsample9836			Cruise62:Station522:EventSorbeSledge9670:Subsample9836	Cruise62:Station522:EventSorbeSledge9670								
+Cruise62:Station523:EventSorbeSledge9671:Subsample9837			Cruise62:Station523:EventSorbeSledge9671:Subsample9837	Cruise62:Station523:EventSorbeSledge9671								
+Cruise62:Station524:EventSorbeSledge9672:Subsample9838			Cruise62:Station524:EventSorbeSledge9672:Subsample9838	Cruise62:Station524:EventSorbeSledge9672								
+Cruise62:Station525:EventSorbeSledge9673:Subsample9839			Cruise62:Station525:EventSorbeSledge9673:Subsample9839	Cruise62:Station525:EventSorbeSledge9673								
+Cruise62:Station526:EventSorbeSledge9674:Subsample9840			Cruise62:Station526:EventSorbeSledge9674:Subsample9840	Cruise62:Station526:EventSorbeSledge9674								
+Cruise62:Station527:EventSorbeSledge9675:Subsample9841			Cruise62:Station527:EventSorbeSledge9675:Subsample9841	Cruise62:Station527:EventSorbeSledge9675								
+Cruise62:Station528:EventSorbeSledge9676:Subsample9842			Cruise62:Station528:EventSorbeSledge9676:Subsample9842	Cruise62:Station528:EventSorbeSledge9676								
+Cruise62:Station529:EventSorbeSledge9677:Subsample9843			Cruise62:Station529:EventSorbeSledge9677:Subsample9843	Cruise62:Station529:EventSorbeSledge9677								
+Cruise62:Station530:EventSorbeSledge9678:Subsample9844			Cruise62:Station530:EventSorbeSledge9678:Subsample9844	Cruise62:Station530:EventSorbeSledge9678								
+Cruise62:Station531:EventSorbeSledge9697:Subsample9854			Cruise62:Station531:EventSorbeSledge9697:Subsample9854	Cruise62:Station531:EventSorbeSledge9697								
+Cruise62:Station532:EventSorbeSledge9700:Subsample9855			Cruise62:Station532:EventSorbeSledge9700:Subsample9855	Cruise62:Station532:EventSorbeSledge9700								
+Cruise62:Station533:EventSorbeSledge9703:Subsample9856			Cruise62:Station533:EventSorbeSledge9703:Subsample9856	Cruise62:Station533:EventSorbeSledge9703								
+Cruise62:Station534:EventSorbeSledge9706:Subsample9857			Cruise62:Station534:EventSorbeSledge9706:Subsample9857	Cruise62:Station534:EventSorbeSledge9706								
+Cruise62:Station535:EventSorbeSledge9709:Subsample9858			Cruise62:Station535:EventSorbeSledge9709:Subsample9858	Cruise62:Station535:EventSorbeSledge9709								
+Cruise62:Station536:EventSorbeSledge9712:Subsample9859			Cruise62:Station536:EventSorbeSledge9712:Subsample9859	Cruise62:Station536:EventSorbeSledge9712								
+Cruise62:Station551:EventSorbeSledge9742:Subsample9879			Cruise62:Station551:EventSorbeSledge9742:Subsample9879	Cruise62:Station551:EventSorbeSledge9742								
+Cruise62:Station552:EventSorbeSledge9745:Subsample9880			Cruise62:Station552:EventSorbeSledge9745:Subsample9880	Cruise62:Station552:EventSorbeSledge9745								
+Cruise62:Station553:EventSorbeSledge9748:Subsample9881			Cruise62:Station553:EventSorbeSledge9748:Subsample9881	Cruise62:Station553:EventSorbeSledge9748								
+Cruise62:Station554:EventSorbeSledge9751:Subsample9882			Cruise62:Station554:EventSorbeSledge9751:Subsample9882	Cruise62:Station554:EventSorbeSledge9751								
+Cruise63:Station537:EventSorbeSledge9716:Subsample9867			Cruise63:Station537:EventSorbeSledge9716:Subsample9867	Cruise63:Station537:EventSorbeSledge9716								
+Cruise63:Station538:EventSorbeSledge9719:Subsample9868			Cruise63:Station538:EventSorbeSledge9719:Subsample9868	Cruise63:Station538:EventSorbeSledge9719								
+Cruise63:Station539:EventSorbeSledge9722:Subsample9869			Cruise63:Station539:EventSorbeSledge9722:Subsample9869	Cruise63:Station539:EventSorbeSledge9722								
+Cruise63:Station540:EventSorbeSledge9724:Subsample9870			Cruise63:Station540:EventSorbeSledge9724:Subsample9870	Cruise63:Station540:EventSorbeSledge9724								
+Cruise63:Station541:EventSorbeSledge9726:Subsample9871			Cruise63:Station541:EventSorbeSledge9726:Subsample9871	Cruise63:Station541:EventSorbeSledge9726								
+Cruise63:Station542:EventSorbeSledge9728:Subsample9872			Cruise63:Station542:EventSorbeSledge9728:Subsample9872	Cruise63:Station542:EventSorbeSledge9728								
+Cruise63:Station543:EventSorbeSledge9730:Subsample9873			Cruise63:Station543:EventSorbeSledge9730:Subsample9873	Cruise63:Station543:EventSorbeSledge9730								
+Cruise63:Station545:EventSorbeSledge9732:Subsample9874			Cruise63:Station545:EventSorbeSledge9732:Subsample9874	Cruise63:Station545:EventSorbeSledge9732								
+Cruise63:Station546:EventSorbeSledge9734:Subsample9875			Cruise63:Station546:EventSorbeSledge9734:Subsample9875	Cruise63:Station546:EventSorbeSledge9734								
+Cruise63:Station548:EventSorbeSledge9736:Subsample9876			Cruise63:Station548:EventSorbeSledge9736:Subsample9876	Cruise63:Station548:EventSorbeSledge9736								
+Cruise64:Station549:EventSorbeSledge9738:Subsample9877			Cruise64:Station549:EventSorbeSledge9738:Subsample9877	Cruise64:Station549:EventSorbeSledge9738								
+Cruise64:Station550:EventSorbeSledge9740:Subsample9878			Cruise64:Station550:EventSorbeSledge9740:Subsample9878	Cruise64:Station550:EventSorbeSledge9740								
+Cruise65:Station555:EventSorbeSledge9756:Subsample9887			Cruise65:Station555:EventSorbeSledge9756:Subsample9887	Cruise65:Station555:EventSorbeSledge9756								
+Cruise65:Station556:EventSorbeSledge9757:Subsample9888			Cruise65:Station556:EventSorbeSledge9757:Subsample9888	Cruise65:Station556:EventSorbeSledge9757								
+Cruise65:Station557:EventSorbeSledge9758:Subsample9889			Cruise65:Station557:EventSorbeSledge9758:Subsample9889	Cruise65:Station557:EventSorbeSledge9758								
+Cruise65:Station558:EventSorbeSledge9759:Subsample9890			Cruise65:Station558:EventSorbeSledge9759:Subsample9890	Cruise65:Station558:EventSorbeSledge9759								
+Cruise65:Station559:EventSorbeSledge9760:Subsample9891			Cruise65:Station559:EventSorbeSledge9760:Subsample9891	Cruise65:Station559:EventSorbeSledge9760								
+Cruise65:Station560:EventSorbeSledge9761:Subsample9892			Cruise65:Station560:EventSorbeSledge9761:Subsample9892	Cruise65:Station560:EventSorbeSledge9761								
+Cruise66:Station561:EventSorbeSledge9774:Subsample15194			Cruise66:Station561:EventSorbeSledge9774:Subsample15194	Cruise66:Station561:EventSorbeSledge9774								
+Cruise66:Station561:EventSorbeSledge9774:Subsample15195			Cruise66:Station561:EventSorbeSledge9774:Subsample15195	Cruise66:Station561:EventSorbeSledge9774								
+Cruise66:Station561:EventSorbeSledge9774:Subsample9899			Cruise66:Station561:EventSorbeSledge9774:Subsample9899	Cruise66:Station561:EventSorbeSledge9774								
+Cruise66:Station562:EventSorbeSledge9778:Subsample16681			Cruise66:Station562:EventSorbeSledge9778:Subsample16681	Cruise66:Station562:EventSorbeSledge9778								
+Cruise66:Station562:EventSorbeSledge9778:Subsample16682			Cruise66:Station562:EventSorbeSledge9778:Subsample16682	Cruise66:Station562:EventSorbeSledge9778								
+Cruise66:Station562:EventSorbeSledge9778:Subsample9901			Cruise66:Station562:EventSorbeSledge9778:Subsample9901	Cruise66:Station562:EventSorbeSledge9778								
+Cruise66:Station563:EventSorbeSledge9779:Subsample16683			Cruise66:Station563:EventSorbeSledge9779:Subsample16683	Cruise66:Station563:EventSorbeSledge9779								
+Cruise66:Station563:EventSorbeSledge9779:Subsample16685			Cruise66:Station563:EventSorbeSledge9779:Subsample16685	Cruise66:Station563:EventSorbeSledge9779								
+Cruise66:Station563:EventSorbeSledge9779:Subsample9902			Cruise66:Station563:EventSorbeSledge9779:Subsample9902	Cruise66:Station563:EventSorbeSledge9779								
+Cruise66:Station564:EventSorbeSledge9780:Subsample15205			Cruise66:Station564:EventSorbeSledge9780:Subsample15205	Cruise66:Station564:EventSorbeSledge9780								
+Cruise66:Station564:EventSorbeSledge9780:Subsample15219			Cruise66:Station564:EventSorbeSledge9780:Subsample15219	Cruise66:Station564:EventSorbeSledge9780								
+Cruise66:Station564:EventSorbeSledge9780:Subsample9903			Cruise66:Station564:EventSorbeSledge9780:Subsample9903	Cruise66:Station564:EventSorbeSledge9780								
+Cruise66:Station570:EventSorbeSledge9801:Subsample15202			Cruise66:Station570:EventSorbeSledge9801:Subsample15202	Cruise66:Station570:EventSorbeSledge9801								
+Cruise66:Station570:EventSorbeSledge9801:Subsample15203			Cruise66:Station570:EventSorbeSledge9801:Subsample15203	Cruise66:Station570:EventSorbeSledge9801								
+Cruise66:Station570:EventSorbeSledge9801:Subsample9909			Cruise66:Station570:EventSorbeSledge9801:Subsample9909	Cruise66:Station570:EventSorbeSledge9801								
+Cruise66:Station571:EventSorbeSledge9802:Subsample17272			Cruise66:Station571:EventSorbeSledge9802:Subsample17272	Cruise66:Station571:EventSorbeSledge9802								
+Cruise66:Station571:EventSorbeSledge9802:Subsample17273			Cruise66:Station571:EventSorbeSledge9802:Subsample17273	Cruise66:Station571:EventSorbeSledge9802								
+Cruise66:Station571:EventSorbeSledge9802:Subsample9910			Cruise66:Station571:EventSorbeSledge9802:Subsample9910	Cruise66:Station571:EventSorbeSledge9802								
+Cruise66:Station572:EventSorbeSledge9803:Subsample17274			Cruise66:Station572:EventSorbeSledge9803:Subsample17274	Cruise66:Station572:EventSorbeSledge9803								
+Cruise66:Station572:EventSorbeSledge9803:Subsample17275			Cruise66:Station572:EventSorbeSledge9803:Subsample17275	Cruise66:Station572:EventSorbeSledge9803								
+Cruise66:Station572:EventSorbeSledge9803:Subsample9911			Cruise66:Station572:EventSorbeSledge9803:Subsample9911	Cruise66:Station572:EventSorbeSledge9803								
+Cruise66:Station573:EventSorbeSledge9804:Subsample15198			Cruise66:Station573:EventSorbeSledge9804:Subsample15198	Cruise66:Station573:EventSorbeSledge9804								
+Cruise66:Station573:EventSorbeSledge9804:Subsample15199			Cruise66:Station573:EventSorbeSledge9804:Subsample15199	Cruise66:Station573:EventSorbeSledge9804								
+Cruise66:Station573:EventSorbeSledge9804:Subsample9912			Cruise66:Station573:EventSorbeSledge9804:Subsample9912	Cruise66:Station573:EventSorbeSledge9804								
+Cruise66:Station574:EventSorbeSledge9805:Subsample17267			Cruise66:Station574:EventSorbeSledge9805:Subsample17267	Cruise66:Station574:EventSorbeSledge9805								
+Cruise66:Station574:EventSorbeSledge9805:Subsample17268			Cruise66:Station574:EventSorbeSledge9805:Subsample17268	Cruise66:Station574:EventSorbeSledge9805								
+Cruise66:Station574:EventSorbeSledge9805:Subsample9913			Cruise66:Station574:EventSorbeSledge9805:Subsample9913	Cruise66:Station574:EventSorbeSledge9805								
+Cruise66:Station575:EventSorbeSledge9806:Subsample17269			Cruise66:Station575:EventSorbeSledge9806:Subsample17269	Cruise66:Station575:EventSorbeSledge9806								
+Cruise66:Station575:EventSorbeSledge9806:Subsample17271			Cruise66:Station575:EventSorbeSledge9806:Subsample17271	Cruise66:Station575:EventSorbeSledge9806								
+Cruise66:Station575:EventSorbeSledge9806:Subsample9914			Cruise66:Station575:EventSorbeSledge9806:Subsample9914	Cruise66:Station575:EventSorbeSledge9806								
+Cruise66:Station576:EventSorbeSledge9807:Subsample16997			Cruise66:Station576:EventSorbeSledge9807:Subsample16997	Cruise66:Station576:EventSorbeSledge9807								
+Cruise66:Station576:EventSorbeSledge9807:Subsample16998			Cruise66:Station576:EventSorbeSledge9807:Subsample16998	Cruise66:Station576:EventSorbeSledge9807								
+Cruise66:Station576:EventSorbeSledge9807:Subsample9915			Cruise66:Station576:EventSorbeSledge9807:Subsample9915	Cruise66:Station576:EventSorbeSledge9807								
+Cruise66:Station577:EventSorbeSledge9808:Subsample17108			Cruise66:Station577:EventSorbeSledge9808:Subsample17108	Cruise66:Station577:EventSorbeSledge9808								
+Cruise66:Station577:EventSorbeSledge9808:Subsample17109			Cruise66:Station577:EventSorbeSledge9808:Subsample17109	Cruise66:Station577:EventSorbeSledge9808								
+Cruise66:Station577:EventSorbeSledge9808:Subsample17110			Cruise66:Station577:EventSorbeSledge9808:Subsample17110	Cruise66:Station577:EventSorbeSledge9808								
+Cruise66:Station577:EventSorbeSledge9808:Subsample9916			Cruise66:Station577:EventSorbeSledge9808:Subsample9916	Cruise66:Station577:EventSorbeSledge9808								
+Cruise66:Station580:EventSorbeSledge9850:Subsample17261			Cruise66:Station580:EventSorbeSledge9850:Subsample17261	Cruise66:Station580:EventSorbeSledge9850								
+Cruise66:Station580:EventSorbeSledge9850:Subsample17262			Cruise66:Station580:EventSorbeSledge9850:Subsample17262	Cruise66:Station580:EventSorbeSledge9850								
+Cruise66:Station580:EventSorbeSledge9850:Subsample17406			Cruise66:Station580:EventSorbeSledge9850:Subsample17406	Cruise66:Station580:EventSorbeSledge9850								
+Cruise66:Station580:EventSorbeSledge9850:Subsample17407			Cruise66:Station580:EventSorbeSledge9850:Subsample17407	Cruise66:Station580:EventSorbeSledge9850								
+Cruise66:Station580:EventSorbeSledge9850:Subsample9919			Cruise66:Station580:EventSorbeSledge9850:Subsample9919	Cruise66:Station580:EventSorbeSledge9850								
+Cruise66:Station581:EventSorbeSledge9854:Subsample17263			Cruise66:Station581:EventSorbeSledge9854:Subsample17263	Cruise66:Station581:EventSorbeSledge9854								
+Cruise66:Station581:EventSorbeSledge9854:Subsample17264			Cruise66:Station581:EventSorbeSledge9854:Subsample17264	Cruise66:Station581:EventSorbeSledge9854								
+Cruise66:Station581:EventSorbeSledge9854:Subsample17402			Cruise66:Station581:EventSorbeSledge9854:Subsample17402	Cruise66:Station581:EventSorbeSledge9854								
+Cruise66:Station581:EventSorbeSledge9854:Subsample17403			Cruise66:Station581:EventSorbeSledge9854:Subsample17403	Cruise66:Station581:EventSorbeSledge9854								
+Cruise66:Station581:EventSorbeSledge9854:Subsample9920			Cruise66:Station581:EventSorbeSledge9854:Subsample9920	Cruise66:Station581:EventSorbeSledge9854								
+Cruise66:Station583:EventSorbeSledge9856:Subsample15200			Cruise66:Station583:EventSorbeSledge9856:Subsample15200	Cruise66:Station583:EventSorbeSledge9856								
+Cruise66:Station583:EventSorbeSledge9856:Subsample15201			Cruise66:Station583:EventSorbeSledge9856:Subsample15201	Cruise66:Station583:EventSorbeSledge9856								
+Cruise66:Station583:EventSorbeSledge9856:Subsample9922			Cruise66:Station583:EventSorbeSledge9856:Subsample9922	Cruise66:Station583:EventSorbeSledge9856								
+Cruise66:Station584:EventSorbeSledge9857:Subsample17251			Cruise66:Station584:EventSorbeSledge9857:Subsample17251	Cruise66:Station584:EventSorbeSledge9857								
+Cruise66:Station584:EventSorbeSledge9857:Subsample17252			Cruise66:Station584:EventSorbeSledge9857:Subsample17252	Cruise66:Station584:EventSorbeSledge9857								
+Cruise66:Station584:EventSorbeSledge9857:Subsample17400			Cruise66:Station584:EventSorbeSledge9857:Subsample17400	Cruise66:Station584:EventSorbeSledge9857								
+Cruise66:Station584:EventSorbeSledge9857:Subsample17401			Cruise66:Station584:EventSorbeSledge9857:Subsample17401	Cruise66:Station584:EventSorbeSledge9857								
+Cruise66:Station584:EventSorbeSledge9857:Subsample9923			Cruise66:Station584:EventSorbeSledge9857:Subsample9923	Cruise66:Station584:EventSorbeSledge9857								
+Cruise66:Station585:EventSorbeSledge9858:Subsample17253			Cruise66:Station585:EventSorbeSledge9858:Subsample17253	Cruise66:Station585:EventSorbeSledge9858								
+Cruise66:Station585:EventSorbeSledge9858:Subsample17254			Cruise66:Station585:EventSorbeSledge9858:Subsample17254	Cruise66:Station585:EventSorbeSledge9858								
+Cruise66:Station585:EventSorbeSledge9858:Subsample9924			Cruise66:Station585:EventSorbeSledge9858:Subsample9924	Cruise66:Station585:EventSorbeSledge9858								
+Cruise66:Station586:EventSorbeSledge9859:Subsample17247			Cruise66:Station586:EventSorbeSledge9859:Subsample17247	Cruise66:Station586:EventSorbeSledge9859								
+Cruise66:Station586:EventSorbeSledge9859:Subsample17248			Cruise66:Station586:EventSorbeSledge9859:Subsample17248	Cruise66:Station586:EventSorbeSledge9859								
+Cruise66:Station586:EventSorbeSledge9859:Subsample9925			Cruise66:Station586:EventSorbeSledge9859:Subsample9925	Cruise66:Station586:EventSorbeSledge9859								
+Cruise66:Station587:EventSorbeSledge9878:Subsample15192			Cruise66:Station587:EventSorbeSledge9878:Subsample15192	Cruise66:Station587:EventSorbeSledge9878								
+Cruise66:Station587:EventSorbeSledge9878:Subsample15193			Cruise66:Station587:EventSorbeSledge9878:Subsample15193	Cruise66:Station587:EventSorbeSledge9878								
+Cruise66:Station587:EventSorbeSledge9878:Subsample9951			Cruise66:Station587:EventSorbeSledge9878:Subsample9951	Cruise66:Station587:EventSorbeSledge9878								
+Cruise66:Station588:EventSorbeSledge9882:Subsample17245			Cruise66:Station588:EventSorbeSledge9882:Subsample17245	Cruise66:Station588:EventSorbeSledge9882								
+Cruise66:Station588:EventSorbeSledge9882:Subsample17246			Cruise66:Station588:EventSorbeSledge9882:Subsample17246	Cruise66:Station588:EventSorbeSledge9882								
+Cruise66:Station588:EventSorbeSledge9882:Subsample9952			Cruise66:Station588:EventSorbeSledge9882:Subsample9952	Cruise66:Station588:EventSorbeSledge9882								
+Cruise66:Station589:EventSorbeSledge9883:Subsample16994			Cruise66:Station589:EventSorbeSledge9883:Subsample16994	Cruise66:Station589:EventSorbeSledge9883								
+Cruise66:Station589:EventSorbeSledge9883:Subsample16996			Cruise66:Station589:EventSorbeSledge9883:Subsample16996	Cruise66:Station589:EventSorbeSledge9883								
+Cruise66:Station589:EventSorbeSledge9883:Subsample9953			Cruise66:Station589:EventSorbeSledge9883:Subsample9953	Cruise66:Station589:EventSorbeSledge9883								
+Cruise66:Station590:EventSorbeSledge9884:Subsample16995			Cruise66:Station590:EventSorbeSledge9884:Subsample16995	Cruise66:Station590:EventSorbeSledge9884								
+Cruise66:Station590:EventSorbeSledge9884:Subsample9954			Cruise66:Station590:EventSorbeSledge9884:Subsample9954	Cruise66:Station590:EventSorbeSledge9884								
+Cruise66:Station591:EventSorbeSledge9885:Subsample17249			Cruise66:Station591:EventSorbeSledge9885:Subsample17249	Cruise66:Station591:EventSorbeSledge9885								
+Cruise66:Station591:EventSorbeSledge9885:Subsample17250			Cruise66:Station591:EventSorbeSledge9885:Subsample17250	Cruise66:Station591:EventSorbeSledge9885								
+Cruise66:Station591:EventSorbeSledge9885:Subsample9959			Cruise66:Station591:EventSorbeSledge9885:Subsample9959	Cruise66:Station591:EventSorbeSledge9885								
+Cruise66:Station607:EventSorbeSledge9958:Subsample15196			Cruise66:Station607:EventSorbeSledge9958:Subsample15196	Cruise66:Station607:EventSorbeSledge9958								
+Cruise66:Station607:EventSorbeSledge9958:Subsample15197			Cruise66:Station607:EventSorbeSledge9958:Subsample15197	Cruise66:Station607:EventSorbeSledge9958								
+Cruise66:Station607:EventSorbeSledge9958:Subsample17148			Cruise66:Station607:EventSorbeSledge9958:Subsample17148	Cruise66:Station607:EventSorbeSledge9958								
+Cruise66:Station607:EventSorbeSledge9958:Subsample9990			Cruise66:Station607:EventSorbeSledge9958:Subsample9990	Cruise66:Station607:EventSorbeSledge9958								
+Cruise66:Station608:EventSorbeSledge9962:Subsample15227			Cruise66:Station608:EventSorbeSledge9962:Subsample15227	Cruise66:Station608:EventSorbeSledge9962								
+Cruise66:Station608:EventSorbeSledge9962:Subsample15228			Cruise66:Station608:EventSorbeSledge9962:Subsample15228	Cruise66:Station608:EventSorbeSledge9962								
+Cruise66:Station608:EventSorbeSledge9962:Subsample9992			Cruise66:Station608:EventSorbeSledge9962:Subsample9992	Cruise66:Station608:EventSorbeSledge9962								
+Cruise66:Station621:EventSorbeSledge10014:Subsample10018			Cruise66:Station621:EventSorbeSledge10014:Subsample10018	Cruise66:Station621:EventSorbeSledge10014								
+Cruise66:Station621:EventSorbeSledge10014:Subsample15225			Cruise66:Station621:EventSorbeSledge10014:Subsample15225	Cruise66:Station621:EventSorbeSledge10014								
+Cruise66:Station621:EventSorbeSledge10014:Subsample15226			Cruise66:Station621:EventSorbeSledge10014:Subsample15226	Cruise66:Station621:EventSorbeSledge10014								
+Cruise68:Station1651:EventSorbeSledge16264:Subsample17255			Cruise68:Station1651:EventSorbeSledge16264:Subsample17255	Cruise68:Station1651:EventSorbeSledge16264								
+Cruise68:Station1651:EventSorbeSledge16264:Subsample17256			Cruise68:Station1651:EventSorbeSledge16264:Subsample17256	Cruise68:Station1651:EventSorbeSledge16264								
+Cruise68:Station565:EventSorbeSledge9781:Subsample17276			Cruise68:Station565:EventSorbeSledge9781:Subsample17276	Cruise68:Station565:EventSorbeSledge9781								
+Cruise68:Station565:EventSorbeSledge9781:Subsample17277			Cruise68:Station565:EventSorbeSledge9781:Subsample17277	Cruise68:Station565:EventSorbeSledge9781								
+Cruise68:Station565:EventSorbeSledge9781:Subsample17409			Cruise68:Station565:EventSorbeSledge9781:Subsample17409	Cruise68:Station565:EventSorbeSledge9781								
+Cruise68:Station565:EventSorbeSledge9781:Subsample17410			Cruise68:Station565:EventSorbeSledge9781:Subsample17410	Cruise68:Station565:EventSorbeSledge9781								
+Cruise68:Station565:EventSorbeSledge9781:Subsample9904			Cruise68:Station565:EventSorbeSledge9781:Subsample9904	Cruise68:Station565:EventSorbeSledge9781								
+Cruise68:Station566:EventSorbeSledge9796:Subsample15243			Cruise68:Station566:EventSorbeSledge9796:Subsample15243	Cruise68:Station566:EventSorbeSledge9796								
+Cruise68:Station566:EventSorbeSledge9796:Subsample9905			Cruise68:Station566:EventSorbeSledge9796:Subsample9905	Cruise68:Station566:EventSorbeSledge9796								
+Cruise68:Station567:EventSorbeSledge9798:Subsample16673			Cruise68:Station567:EventSorbeSledge9798:Subsample16673	Cruise68:Station567:EventSorbeSledge9798								
+Cruise68:Station567:EventSorbeSledge9798:Subsample16674			Cruise68:Station567:EventSorbeSledge9798:Subsample16674	Cruise68:Station567:EventSorbeSledge9798								
+Cruise68:Station567:EventSorbeSledge9798:Subsample9906			Cruise68:Station567:EventSorbeSledge9798:Subsample9906	Cruise68:Station567:EventSorbeSledge9798								
+Cruise68:Station568:EventSorbeSledge9799:Subsample15244			Cruise68:Station568:EventSorbeSledge9799:Subsample15244	Cruise68:Station568:EventSorbeSledge9799								
+Cruise68:Station568:EventSorbeSledge9799:Subsample9907			Cruise68:Station568:EventSorbeSledge9799:Subsample9907	Cruise68:Station568:EventSorbeSledge9799								
+Cruise68:Station569:EventSorbeSledge9800:Subsample15230			Cruise68:Station569:EventSorbeSledge9800:Subsample15230	Cruise68:Station569:EventSorbeSledge9800								
+Cruise68:Station569:EventSorbeSledge9800:Subsample9908			Cruise68:Station569:EventSorbeSledge9800:Subsample9908	Cruise68:Station569:EventSorbeSledge9800								
+Cruise68:Station578:EventSorbeSledge9809:Subsample17278			Cruise68:Station578:EventSorbeSledge9809:Subsample17278	Cruise68:Station578:EventSorbeSledge9809								
+Cruise68:Station578:EventSorbeSledge9809:Subsample9917			Cruise68:Station578:EventSorbeSledge9809:Subsample9917	Cruise68:Station578:EventSorbeSledge9809								
+Cruise68:Station579:EventSorbeSledge9810:Subsample17279			Cruise68:Station579:EventSorbeSledge9810:Subsample17279	Cruise68:Station579:EventSorbeSledge9810								
+Cruise68:Station579:EventSorbeSledge9810:Subsample17280			Cruise68:Station579:EventSorbeSledge9810:Subsample17280	Cruise68:Station579:EventSorbeSledge9810								
+Cruise68:Station579:EventSorbeSledge9810:Subsample17411			Cruise68:Station579:EventSorbeSledge9810:Subsample17411	Cruise68:Station579:EventSorbeSledge9810								
+Cruise68:Station579:EventSorbeSledge9810:Subsample17412			Cruise68:Station579:EventSorbeSledge9810:Subsample17412	Cruise68:Station579:EventSorbeSledge9810								
+Cruise68:Station579:EventSorbeSledge9810:Subsample9918			Cruise68:Station579:EventSorbeSledge9810:Subsample9918	Cruise68:Station579:EventSorbeSledge9810								
+Cruise68:Station582:EventSorbeSledge9855:Subsample15204			Cruise68:Station582:EventSorbeSledge9855:Subsample15204	Cruise68:Station582:EventSorbeSledge9855								
+Cruise68:Station582:EventSorbeSledge9855:Subsample9921			Cruise68:Station582:EventSorbeSledge9855:Subsample9921	Cruise68:Station582:EventSorbeSledge9855								
+Cruise68:Station592:EventSorbeSledge9886:Subsample17281			Cruise68:Station592:EventSorbeSledge9886:Subsample17281	Cruise68:Station592:EventSorbeSledge9886								
+Cruise68:Station592:EventSorbeSledge9886:Subsample17282			Cruise68:Station592:EventSorbeSledge9886:Subsample17282	Cruise68:Station592:EventSorbeSledge9886								
+Cruise68:Station592:EventSorbeSledge9886:Subsample9961			Cruise68:Station592:EventSorbeSledge9886:Subsample9961	Cruise68:Station592:EventSorbeSledge9886								
+Cruise68:Station593:EventSorbeSledge9887:Subsample16686			Cruise68:Station593:EventSorbeSledge9887:Subsample16686	Cruise68:Station593:EventSorbeSledge9887								
+Cruise68:Station593:EventSorbeSledge9887:Subsample16687			Cruise68:Station593:EventSorbeSledge9887:Subsample16687	Cruise68:Station593:EventSorbeSledge9887								
+Cruise68:Station593:EventSorbeSledge9887:Subsample9962			Cruise68:Station593:EventSorbeSledge9887:Subsample9962	Cruise68:Station593:EventSorbeSledge9887								
+Cruise68:Station594:EventSorbeSledge9888:Subsample17111			Cruise68:Station594:EventSorbeSledge9888:Subsample17111	Cruise68:Station594:EventSorbeSledge9888								
+Cruise68:Station594:EventSorbeSledge9888:Subsample17112			Cruise68:Station594:EventSorbeSledge9888:Subsample17112	Cruise68:Station594:EventSorbeSledge9888								
+Cruise68:Station594:EventSorbeSledge9888:Subsample9964			Cruise68:Station594:EventSorbeSledge9888:Subsample9964	Cruise68:Station594:EventSorbeSledge9888								
+Cruise68:Station595:EventSorbeSledge9910:Subsample17139			Cruise68:Station595:EventSorbeSledge9910:Subsample17139	Cruise68:Station595:EventSorbeSledge9910								
+Cruise68:Station595:EventSorbeSledge9910:Subsample17140			Cruise68:Station595:EventSorbeSledge9910:Subsample17140	Cruise68:Station595:EventSorbeSledge9910								
+Cruise68:Station595:EventSorbeSledge9910:Subsample9966			Cruise68:Station595:EventSorbeSledge9910:Subsample9966	Cruise68:Station595:EventSorbeSledge9910								
+Cruise68:Station596:EventSorbeSledge9914:Subsample17141			Cruise68:Station596:EventSorbeSledge9914:Subsample17141	Cruise68:Station596:EventSorbeSledge9914								
+Cruise68:Station596:EventSorbeSledge9914:Subsample17142			Cruise68:Station596:EventSorbeSledge9914:Subsample17142	Cruise68:Station596:EventSorbeSledge9914								
+Cruise68:Station596:EventSorbeSledge9914:Subsample9968			Cruise68:Station596:EventSorbeSledge9914:Subsample9968	Cruise68:Station596:EventSorbeSledge9914								
+Cruise68:Station597:EventSorbeSledge9915:Subsample15220			Cruise68:Station597:EventSorbeSledge9915:Subsample15220	Cruise68:Station597:EventSorbeSledge9915								
+Cruise68:Station597:EventSorbeSledge9915:Subsample9970			Cruise68:Station597:EventSorbeSledge9915:Subsample9970	Cruise68:Station597:EventSorbeSledge9915								
+Cruise68:Station598:EventSorbeSledge9916:Subsample15222			Cruise68:Station598:EventSorbeSledge9916:Subsample15222	Cruise68:Station598:EventSorbeSledge9916								
+Cruise68:Station598:EventSorbeSledge9916:Subsample15223			Cruise68:Station598:EventSorbeSledge9916:Subsample15223	Cruise68:Station598:EventSorbeSledge9916								
+Cruise68:Station598:EventSorbeSledge9916:Subsample9972			Cruise68:Station598:EventSorbeSledge9916:Subsample9972	Cruise68:Station598:EventSorbeSledge9916								
+Cruise68:Station599:EventSorbeSledge9917:Subsample17283			Cruise68:Station599:EventSorbeSledge9917:Subsample17283	Cruise68:Station599:EventSorbeSledge9917								
+Cruise68:Station599:EventSorbeSledge9917:Subsample17284			Cruise68:Station599:EventSorbeSledge9917:Subsample17284	Cruise68:Station599:EventSorbeSledge9917								
+Cruise68:Station599:EventSorbeSledge9917:Subsample9974			Cruise68:Station599:EventSorbeSledge9917:Subsample9974	Cruise68:Station599:EventSorbeSledge9917								
+Cruise68:Station600:EventSorbeSledge9918:Subsample17285			Cruise68:Station600:EventSorbeSledge9918:Subsample17285	Cruise68:Station600:EventSorbeSledge9918								
+Cruise68:Station600:EventSorbeSledge9918:Subsample17286			Cruise68:Station600:EventSorbeSledge9918:Subsample17286	Cruise68:Station600:EventSorbeSledge9918								
+Cruise68:Station600:EventSorbeSledge9918:Subsample9976			Cruise68:Station600:EventSorbeSledge9918:Subsample9976	Cruise68:Station600:EventSorbeSledge9918								
+Cruise68:Station601:EventSorbeSledge9919:Subsample17257			Cruise68:Station601:EventSorbeSledge9919:Subsample17257	Cruise68:Station601:EventSorbeSledge9919								
+Cruise68:Station601:EventSorbeSledge9919:Subsample17258			Cruise68:Station601:EventSorbeSledge9919:Subsample17258	Cruise68:Station601:EventSorbeSledge9919								
+Cruise68:Station601:EventSorbeSledge9919:Subsample17404			Cruise68:Station601:EventSorbeSledge9919:Subsample17404	Cruise68:Station601:EventSorbeSledge9919								
+Cruise68:Station601:EventSorbeSledge9919:Subsample17405			Cruise68:Station601:EventSorbeSledge9919:Subsample17405	Cruise68:Station601:EventSorbeSledge9919								
+Cruise68:Station601:EventSorbeSledge9919:Subsample9978			Cruise68:Station601:EventSorbeSledge9919:Subsample9978	Cruise68:Station601:EventSorbeSledge9919								
+Cruise68:Station602:EventSorbeSledge9920:Subsample17260			Cruise68:Station602:EventSorbeSledge9920:Subsample17260	Cruise68:Station602:EventSorbeSledge9920								
+Cruise68:Station602:EventSorbeSledge9920:Subsample9980			Cruise68:Station602:EventSorbeSledge9920:Subsample9980	Cruise68:Station602:EventSorbeSledge9920								
+Cruise68:Station603:EventSorbeSledge9921:Subsample17288			Cruise68:Station603:EventSorbeSledge9921:Subsample17288	Cruise68:Station603:EventSorbeSledge9921								
+Cruise68:Station603:EventSorbeSledge9921:Subsample17289			Cruise68:Station603:EventSorbeSledge9921:Subsample17289	Cruise68:Station603:EventSorbeSledge9921								
+Cruise68:Station603:EventSorbeSledge9921:Subsample9982			Cruise68:Station603:EventSorbeSledge9921:Subsample9982	Cruise68:Station603:EventSorbeSledge9921								
+Cruise68:Station604:EventSorbeSledge9922:Subsample15229			Cruise68:Station604:EventSorbeSledge9922:Subsample15229	Cruise68:Station604:EventSorbeSledge9922								
+Cruise68:Station604:EventSorbeSledge9922:Subsample17287			Cruise68:Station604:EventSorbeSledge9922:Subsample17287	Cruise68:Station604:EventSorbeSledge9922								
+Cruise68:Station604:EventSorbeSledge9922:Subsample9984			Cruise68:Station604:EventSorbeSledge9922:Subsample9984	Cruise68:Station604:EventSorbeSledge9922								
+Cruise68:Station605:EventSorbeSledge9923:Subsample16675			Cruise68:Station605:EventSorbeSledge9923:Subsample16675	Cruise68:Station605:EventSorbeSledge9923								
+Cruise68:Station605:EventSorbeSledge9923:Subsample9986			Cruise68:Station605:EventSorbeSledge9923:Subsample9986	Cruise68:Station605:EventSorbeSledge9923								
+Cruise68:Station606:EventSorbeSledge9924:Subsample15221			Cruise68:Station606:EventSorbeSledge9924:Subsample15221	Cruise68:Station606:EventSorbeSledge9924								
+Cruise68:Station609:EventSorbeSledge9963:Subsample16688			Cruise68:Station609:EventSorbeSledge9963:Subsample16688	Cruise68:Station609:EventSorbeSledge9963								
+Cruise68:Station609:EventSorbeSledge9963:Subsample16689			Cruise68:Station609:EventSorbeSledge9963:Subsample16689	Cruise68:Station609:EventSorbeSledge9963								
+Cruise68:Station609:EventSorbeSledge9963:Subsample9994			Cruise68:Station609:EventSorbeSledge9963:Subsample9994	Cruise68:Station609:EventSorbeSledge9963								
+Cruise68:Station610:EventSorbeSledge9964:Subsample17121			Cruise68:Station610:EventSorbeSledge9964:Subsample17121	Cruise68:Station610:EventSorbeSledge9964								
+Cruise68:Station610:EventSorbeSledge9964:Subsample17122			Cruise68:Station610:EventSorbeSledge9964:Subsample17122	Cruise68:Station610:EventSorbeSledge9964								
+Cruise68:Station610:EventSorbeSledge9964:Subsample9996			Cruise68:Station610:EventSorbeSledge9964:Subsample9996	Cruise68:Station610:EventSorbeSledge9964								
+Cruise68:Station611:EventSorbeSledge9965:Subsample17123			Cruise68:Station611:EventSorbeSledge9965:Subsample17123	Cruise68:Station611:EventSorbeSledge9965								
+Cruise68:Station611:EventSorbeSledge9965:Subsample9998			Cruise68:Station611:EventSorbeSledge9965:Subsample9998	Cruise68:Station611:EventSorbeSledge9965								
+Cruise68:Station612:EventSorbeSledge9966:Subsample10000			Cruise68:Station612:EventSorbeSledge9966:Subsample10000	Cruise68:Station612:EventSorbeSledge9966								
+Cruise68:Station612:EventSorbeSledge9966:Subsample17131			Cruise68:Station612:EventSorbeSledge9966:Subsample17131	Cruise68:Station612:EventSorbeSledge9966								
+Cruise68:Station612:EventSorbeSledge9966:Subsample17132			Cruise68:Station612:EventSorbeSledge9966:Subsample17132	Cruise68:Station612:EventSorbeSledge9966								
+Cruise68:Station613:EventSorbeSledge9967:Subsample17129			Cruise68:Station613:EventSorbeSledge9967:Subsample17129	Cruise68:Station613:EventSorbeSledge9967								
+Cruise68:Station613:EventSorbeSledge9967:Subsample17130			Cruise68:Station613:EventSorbeSledge9967:Subsample17130	Cruise68:Station613:EventSorbeSledge9967								
+Cruise68:Station614:EventSorbeSledge9968:Subsample10004			Cruise68:Station614:EventSorbeSledge9968:Subsample10004	Cruise68:Station614:EventSorbeSledge9968								
+Cruise68:Station614:EventSorbeSledge9968:Subsample17133			Cruise68:Station614:EventSorbeSledge9968:Subsample17133	Cruise68:Station614:EventSorbeSledge9968								
+Cruise68:Station614:EventSorbeSledge9968:Subsample17134			Cruise68:Station614:EventSorbeSledge9968:Subsample17134	Cruise68:Station614:EventSorbeSledge9968								
+Cruise68:Station615:EventSorbeSledge9969:Subsample10006			Cruise68:Station615:EventSorbeSledge9969:Subsample10006	Cruise68:Station615:EventSorbeSledge9969								
+Cruise68:Station615:EventSorbeSledge9969:Subsample17290			Cruise68:Station615:EventSorbeSledge9969:Subsample17290	Cruise68:Station615:EventSorbeSledge9969								
+Cruise68:Station615:EventSorbeSledge9969:Subsample17408			Cruise68:Station615:EventSorbeSledge9969:Subsample17408	Cruise68:Station615:EventSorbeSledge9969								
+Cruise68:Station616:EventSorbeSledge16394:Subsample16676			Cruise68:Station616:EventSorbeSledge16394:Subsample16676	Cruise68:Station616:EventSorbeSledge16394								
+Cruise68:Station616:EventSorbeSledge16394:Subsample16677			Cruise68:Station616:EventSorbeSledge16394:Subsample16677	Cruise68:Station616:EventSorbeSledge16394								
+Cruise68:Station616:EventSorbeSledge9970:Subsample10008			Cruise68:Station616:EventSorbeSledge9970:Subsample10008	Cruise68:Station616:EventSorbeSledge9970								
+Cruise68:Station616:EventSorbeSledge9970:Subsample16678			Cruise68:Station616:EventSorbeSledge9970:Subsample16678	Cruise68:Station616:EventSorbeSledge9970								
+Cruise68:Station616:EventSorbeSledge9970:Subsample16679			Cruise68:Station616:EventSorbeSledge9970:Subsample16679	Cruise68:Station616:EventSorbeSledge9970								
+Cruise68:Station617:EventSorbeSledge9998:Subsample10010			Cruise68:Station617:EventSorbeSledge9998:Subsample10010	Cruise68:Station617:EventSorbeSledge9998								
+Cruise68:Station617:EventSorbeSledge9998:Subsample17116			Cruise68:Station617:EventSorbeSledge9998:Subsample17116	Cruise68:Station617:EventSorbeSledge9998								
+Cruise68:Station617:EventSorbeSledge9998:Subsample17117			Cruise68:Station617:EventSorbeSledge9998:Subsample17117	Cruise68:Station617:EventSorbeSledge9998								
+Cruise68:Station618:EventSorbeSledge10002:Subsample10012			Cruise68:Station618:EventSorbeSledge10002:Subsample10012	Cruise68:Station618:EventSorbeSledge10002								
+Cruise68:Station618:EventSorbeSledge10002:Subsample17125			Cruise68:Station618:EventSorbeSledge10002:Subsample17125	Cruise68:Station618:EventSorbeSledge10002								
+Cruise68:Station618:EventSorbeSledge10002:Subsample17126			Cruise68:Station618:EventSorbeSledge10002:Subsample17126	Cruise68:Station618:EventSorbeSledge10002								
+Cruise68:Station619:EventSorbeSledge10003:Subsample10014			Cruise68:Station619:EventSorbeSledge10003:Subsample10014	Cruise68:Station619:EventSorbeSledge10003								
+Cruise68:Station619:EventSorbeSledge10003:Subsample17127			Cruise68:Station619:EventSorbeSledge10003:Subsample17127	Cruise68:Station619:EventSorbeSledge10003								
+Cruise68:Station619:EventSorbeSledge10003:Subsample17128			Cruise68:Station619:EventSorbeSledge10003:Subsample17128	Cruise68:Station619:EventSorbeSledge10003								
+Cruise68:Station620:EventSorbeSledge10004:Subsample10016			Cruise68:Station620:EventSorbeSledge10004:Subsample10016	Cruise68:Station620:EventSorbeSledge10004								
+Cruise68:Station620:EventSorbeSledge10004:Subsample17135			Cruise68:Station620:EventSorbeSledge10004:Subsample17135	Cruise68:Station620:EventSorbeSledge10004								
+Cruise68:Station620:EventSorbeSledge10004:Subsample17136			Cruise68:Station620:EventSorbeSledge10004:Subsample17136	Cruise68:Station620:EventSorbeSledge10004								
+Cruise68:Station622:EventSorbeSledge10018:Subsample10020			Cruise68:Station622:EventSorbeSledge10018:Subsample10020	Cruise68:Station622:EventSorbeSledge10018								
+Cruise68:Station622:EventSorbeSledge10018:Subsample15224			Cruise68:Station622:EventSorbeSledge10018:Subsample15224	Cruise68:Station622:EventSorbeSledge10018								
+Cruise10:Station75			Cruise10:Station75	Cruise10	1995-03-23		Station: 120-Ondiep (t-C5s/Kleine Rede swale)			51.18	2.70	
+Cruise12:Station103			Cruise12:Station103	Cruise12	1995-05-23		Station: 115-Diep (t-C4s/Westdiep swale 2)			51.15	2.60	
+Cruise12:Station97			Cruise12:Station97	Cruise12	1995-05-22		Station: 215-Diep (t-F4s/Kwinte Bank swale)			51.27	2.61	
+Cruise13:Station108			Cruise13:Station108	Cruise13	1995-06-19		Station: 140 (t-C7c/Wenduine Bank crest)			51.27	3.05	
+Cruise14:Station125			Cruise14:Station125	Cruise14	1995-07-10		Station: 115-Diep (t-C4s/Westdiep swale 2)			51.15	2.60	
+Cruise15:Station1674			Cruise15:Station1674	Cruise15	1995-08-17		Station: 790			51.28	2.85	
+Cruise18:Station161			Cruise18:Station161	Cruise18	1995-12-18		Station: UG1- Ondiep (t-C1c/Small Bank crest)			51.15	2.54	
+Cruise4:Station12			Cruise4:Station12	Cruise4	1994-09-06		Station: 215-Diep (t-F4s/Kwinte Bank swale)			51.27	2.61	
+Cruise4:Station14			Cruise4:Station14	Cruise4	1994-09-07		Station: 702-Ondiep (t-C8c/Paardenmarkt crest)			51.37	3.31	
+Cruise4:Station9			Cruise4:Station9	Cruise4	1994-09-06		Station: 120-Ondiep (t-C5s/Kleine Rede swale)			51.18	2.70	
+Cruise6:Station19			Cruise6:Station19	Cruise6	1994-10-06		Station: 120-Ondiep (t-C5s/Kleine Rede swale)			51.18	2.70	
+Cruise62:Station522			Cruise62:Station522	Cruise62	1994-08-31		Station: Do1			54.15	2.58	
+Cruise62:Station523			Cruise62:Station523	Cruise62	1994-08-31		Station: Do2			54.26	2.45	
+Cruise62:Station524			Cruise62:Station524	Cruise62	1994-08-31		Station: Do3			54.29	2.47	
+Cruise62:Station525			Cruise62:Station525	Cruise62	1994-08-31		Station: Do4			54.58	2.13	
+Cruise62:Station526			Cruise62:Station526	Cruise62	1994-08-31		Station: Do5			54.72	2.00	
+Cruise62:Station527			Cruise62:Station527	Cruise62	1994-08-31		Station: Do6			54.81	1.91	
+Cruise62:Station528			Cruise62:Station528	Cruise62	1994-08-31		Station: Do7			54.91	1.78	
+Cruise62:Station529			Cruise62:Station529	Cruise62	1994-08-31		Station: Do8			54.58	1.20	
+Cruise62:Station530			Cruise62:Station530	Cruise62	1994-08-31		Station: Do9			54.58	1.36	
+Cruise62:Station531			Cruise62:Station531	Cruise62	1994-08-31		Station: FFA1			53.46	4.54	
+Cruise62:Station532			Cruise62:Station532	Cruise62	1994-08-31		Station: FFA2			53.59	4.45	
+Cruise62:Station533			Cruise62:Station533	Cruise62	1994-08-31		Station: FFA3			53.67	4.41	
+Cruise62:Station534			Cruise62:Station534	Cruise62	1994-08-31		Station: FFA4			53.71	4.38	
+Cruise62:Station535			Cruise62:Station535	Cruise62	1994-08-31		Station: FFA5			53.74	4.35	
+Cruise62:Station536			Cruise62:Station536	Cruise62	1994-08-31		Station: FFA6			53.87	4.28	
+Cruise62:Station551			Cruise62:Station551	Cruise62	1994-08-31		Station: FFB1			53.63	4.82	
+Cruise62:Station552			Cruise62:Station552	Cruise62	1994-08-31		Station: FFB2			53.70	4.76	
+Cruise62:Station553			Cruise62:Station553	Cruise62	1994-08-31		Station: FFB3			53.75	4.68	
+Cruise62:Station554			Cruise62:Station554	Cruise62	1994-08-31		Station: FFB4			53.84	4.61	
+Cruise63:Station537			Cruise63:Station537	Cruise63	1996-04-16		Station: FFA1			53.46	4.54	
+Cruise63:Station538			Cruise63:Station538	Cruise63	1996-04-16		Station: FFA2			53.59	4.45	
+Cruise63:Station539			Cruise63:Station539	Cruise63	1996-04-16		Station: FFA3			53.67	4.41	
+Cruise63:Station540			Cruise63:Station540	Cruise63	1996-04-16		Station: FFA4			53.71	4.38	
+Cruise63:Station541			Cruise63:Station541	Cruise63	1996-04-16		Station: FFA5			53.74	4.35	
+Cruise63:Station542			Cruise63:Station542	Cruise63	1996-04-16		Station: FFA6			53.87	4.28	
+Cruise63:Station543			Cruise63:Station543	Cruise63	1996-04-16		Station: FFA7			54.04	4.09	
+Cruise63:Station545			Cruise63:Station545	Cruise63	1996-04-16		Station: FFB2			53.70	4.76	
+Cruise63:Station546			Cruise63:Station546	Cruise63	1996-04-16		Station: FFB3			53.75	4.68	
+Cruise63:Station548			Cruise63:Station548	Cruise63	1996-04-16		Station: FFB5			53.98	4.47	
+Cruise64:Station549			Cruise64:Station549	Cruise64	1996-04-25		Station: FFB1			53.63	4.82	
+Cruise64:Station550			Cruise64:Station550	Cruise64	1996-04-25		Station: FFB4			53.84	4.61	
+Cruise65:Station555			Cruise65:Station555	Cruise65	1995-09-23		Station: cs200			47.99	-7.79	
+Cruise65:Station556			Cruise65:Station556	Cruise65	1995-09-24		Station: sb250			47.87	-7.84	
+Cruise65:Station557			Cruise65:Station557	Cruise65	1995-09-24		Station: sb300			47.85	-7.88	
+Cruise65:Station558			Cruise65:Station558	Cruise65	1995-09-25		Station: us600			47.79	-8.01	
+Cruise65:Station559			Cruise65:Station559	Cruise65	1995-09-24		Station: us650			47.78	-8.02	
+Cruise65:Station560			Cruise65:Station560	Cruise65	1995-09-25		Station: us700			47.74	-8.00	
+Cruise66:Station561			Cruise66:Station561	Cruise66	1993-09-01		Station: 115-Diep (s-C4s/Westdiep swale 2)			51.15	2.60	
+Cruise66:Station562			Cruise66:Station562	Cruise66	1993-09-01		Station: UG1-Ondiep (s-C1c/Smal Bank crest)			51.14	2.53	
+Cruise66:Station563			Cruise66:Station563	Cruise66	1993-09-01		Station: UG1-Diep (s-C2s/Westdiep swale 1)			51.14	2.54	
+Cruise66:Station564			Cruise66:Station564	Cruise66	1993-09-02		Station: 330-Diep (s-Z1c/Goote Bank crest)			51.43	2.82	
+Cruise66:Station570			Cruise66:Station570	Cruise66	1993-09-02		Station: 140-Ondiep (s-C9s/Grote Rede  swale 2)			51.31	3.05	
+Cruise66:Station571			Cruise66:Station571	Cruise66	1993-08-31		Station: UG3-Ondiep (s-C11c/Droogte van Schooneveld crest)			51.42	3.22	
+Cruise66:Station572			Cruise66:Station572	Cruise66	1993-08-31		Station: UG3-Diep (s-C12s/Droogte van Schooneveld swale)			51.41	3.21	
+Cruise66:Station573			Cruise66:Station573	Cruise66	1993-09-02		Station: 135-Ondiep (s-C7c/Nieuwpoort Bank crest)			51.25	2.80	
+Cruise66:Station574			Cruise66:Station574	Cruise66	1993-09-01		Station: 730-Ondiep (s-F3c/Buiten Ratel crest)			51.31	2.57	
+Cruise66:Station575			Cruise66:Station575	Cruise66	1993-09-01		Station: 730-Diep (s-F4s/Buiten Ratel swale)			51.29	2.54	
+Cruise66:Station576			Cruise66:Station576	Cruise66	1993-09-01		Station: UG4-Ondiep (s-F7c/Middelkerke Bank crest)			51.31	2.74	
+Cruise66:Station577			Cruise66:Station577	Cruise66	1993-09-01		Station: UG4-Diep (s-F8s/Middelkerke Bank swale)			51.31	2.71	
+Cruise66:Station580			Cruise66:Station580	Cruise66	1993-08-31		Station: 702-Ondiep (s-C13c/Paardenmarkt crest)			51.38	3.31	
+Cruise66:Station581			Cruise66:Station581	Cruise66	1993-08-31		Station: 702-Diep (s-C14s/Paardenmarkt swale)			51.39	3.34	
+Cruise66:Station583			Cruise66:Station583	Cruise66	1993-09-02		Station: 135-Diep (s-C8s/Grote Rede  swale 1)			51.24	2.84	
+Cruise66:Station584			Cruise66:Station584	Cruise66	1993-09-01		Station: 315-Ondiep (s-F1c/Oostdyck crest)			51.32	2.48	
+Cruise66:Station585			Cruise66:Station585	Cruise66	1993-09-01		Station: 315-Diep (s-F2s/Oostdyck swale)			51.32	2.45	
+Cruise66:Station586			Cruise66:Station586	Cruise66	1993-09-01		Station: 215-Ondiep (s-F5c/Kwinte Bank crest)			51.25	2.61	
+Cruise66:Station587			Cruise66:Station587	Cruise66	1993-09-01		Station: 115-Ondiep (s-C3c/Broers Bank crest)			51.14	2.59	
+Cruise66:Station588			Cruise66:Station588	Cruise66	1993-09-01		Station: 120-Ondiep (s-C6s/Kleine Rede swale)			51.19	2.72	
+Cruise66:Station589			Cruise66:Station589	Cruise66	1993-09-02		Station: UG2-Ondiep 2 (s-F10s/Oostende Bank swale 1)			51.31	2.85	
+Cruise66:Station590			Cruise66:Station590	Cruise66	1993-09-02		Station: UG2-Ondiep1 (s-F11s/Oostende Bank swale 2)			51.30	2.84	
+Cruise66:Station591			Cruise66:Station591	Cruise66	1993-09-01		Station: 215-Diep (s-F6s/Kwinte Bank swale)			51.26	2.61	
+Cruise66:Station607			Cruise66:Station607	Cruise66	1993-09-01		Station: 120-Diep (s-C5s/Westdiep swale 3)			51.17	2.67	
+Cruise66:Station608			Cruise66:Station608	Cruise66	1993-09-02		Station: 790-Ondiep (s-F9c/Oostende Bank crest)			51.29	2.83	
+Cruise66:Station621			Cruise66:Station621	Cruise66	1993-08-31		Station: 700 (s-C10c/Bol van Heist crest)			51.37	3.21	
+Cruise68:Station1651			Cruise68:Station1651	Cruise68	1993-09-08		Station: 421-Diep			51.48	2.45	
+Cruise68:Station565			Cruise68:Station565	Cruise68	1993-09-06		Station: UG6-Ondiep (s-Z2c/Thornton Bank crest)			51.53	2.95	
+Cruise68:Station566			Cruise68:Station566	Cruise68	1993-09-09		Station: S01 (s-W1/off Vlissingen)			51.42	3.63	
+Cruise68:Station567			Cruise68:Station567	Cruise68	1993-09-09		Station: S07 (s-W2/off Hansweert)			51.45	3.97	
+Cruise68:Station568			Cruise68:Station568	Cruise68	1993-09-09		Station: S09 (s-W3/off Valkenisse)			51.37	4.15	
+Cruise68:Station569			Cruise68:Station569	Cruise68	1993-09-09		Station: S12 (s-W4/off Bath)			51.37	4.21	
+Cruise68:Station578			Cruise68:Station578	Cruise68	1993-09-06		Station: UG6-Diep (s-Z3s/Thornton Bank swale)			51.55	2.90	
+Cruise68:Station579			Cruise68:Station579	Cruise68	1993-09-08		Station: UG7-Ondiep (s-Z4c/Schooneveld crest)			51.49	3.20	
+Cruise68:Station582			Cruise68:Station582	Cruise68	1993-09-08		Station: 150 (s-C15s/off Sluissche Hompels swale)			51.42	3.39	
+Cruise68:Station592			Cruise68:Station592	Cruise68	1993-09-08		Station: UG7-Diep (s-Z5s/Steendiep swale)			51.51	3.19	
+Cruise68:Station593			Cruise68:Station593	Cruise68	1993-09-08		Station: UG9-Ondiep (s-Z6c/Rabs Bank crest)			51.61	3.13	
+Cruise68:Station594			Cruise68:Station594	Cruise68	1993-09-07		Station: UG12-Ondiep (s-Z9c/Schaar crest)			51.73	3.32	
+Cruise68:Station595			Cruise68:Station595	Cruise68	1993-09-07		Station: UG18-Ondiep (s-Z19c/off Voorne crest)			51.93	3.96	
+Cruise68:Station596			Cruise68:Station596	Cruise68	1993-09-07		Station: UG18-Diep (s-Z20s/off Voorne swale)			51.93	3.93	
+Cruise68:Station597			Cruise68:Station597	Cruise68	1993-09-08		Station: 421-Ondiep (s-H1c/Noordhinder crest)			51.47	2.40	
+Cruise68:Station598			Cruise68:Station598	Cruise68	1993-09-08		Station: 630 (s-H2s/Noordhinder swale)			51.63	2.55	
+Cruise68:Station599			Cruise68:Station599	Cruise68	1993-09-08		Station: UG8-Ondiep (s-H3c/Westhinder crest)			51.47	2.53	
+Cruise68:Station600			Cruise68:Station600	Cruise68	1993-09-08		Station: UG8-Diep (s-H4s/Westhinder swale)			51.47	2.58	
+Cruise68:Station601			Cruise68:Station601	Cruise68	1993-09-06		Station: 435-Ondiep (s-H5c/Bligh Bank crest)			51.59	2.77	
+Cruise68:Station602			Cruise68:Station602	Cruise68	1993-09-06		Station: 435-Diep (s-H6s/Bligh Bank swale 1)			51.58	2.79	
+Cruise68:Station603			Cruise68:Station603	Cruise68	1993-09-06		Station: R82 (s-H7s/Bligh Bank swale 2)			51.65	2.75	
+Cruise68:Station604			Cruise68:Station604	Cruise68	1993-09-08		Station: R24 (s-H8/off Hinder Banks 1)			51.59	2.35	
+Cruise68:Station605			Cruise68:Station605	Cruise68	1993-09-08		Station: R54 (s-H9/off Hinder Banks 2)			51.65	2.48	
+Cruise68:Station606			Cruise68:Station606	Cruise68	1993-09-06		Station: 545 (s-Z8s/Buitenbanken swale)			51.73	3.06	
+Cruise68:Station609			Cruise68:Station609	Cruise68	1993-09-08		Station: UG9-Diep (s-Z7s/Rabs Bank swale)			51.61	3.16	
+Cruise68:Station610			Cruise68:Station610	Cruise68	1993-09-07		Station: UG13-Ondiep (s-Z13c/Steenbanken crest)			51.76	3.58	
+Cruise68:Station611			Cruise68:Station611	Cruise68	1993-09-07		Station: UG13-Diep (s-Z14s/Middeldiep swale)			51.78	3.57	
+Cruise68:Station612			Cruise68:Station612	Cruise68	1993-09-07		Station: UG15-Diep (s-Z15s/De Kom swale)			51.84	3.69	
+Cruise68:Station613			Cruise68:Station613	Cruise68	1993-09-07		Station: UG15-Ondiep (s-Z16c/Bollen van Goeree crest 1)			51.86	3.74	
+Cruise68:Station614			Cruise68:Station614	Cruise68	1993-09-07		Station: UG16 (s-Z17c/Bollen van Goeree crest 2)			51.90	3.83	
+Cruise68:Station615			Cruise68:Station615	Cruise68	1993-09-08		Station: R84 (s-H10/off Hinder Banks 3)			51.73	2.57	
+Cruise68:Station616			Cruise68:Station616	Cruise68	1993-09-06		Station: 640 (s-H11/off Hinder Banks 4)			51.75	2.81	
+Cruise68:Station617			Cruise68:Station617	Cruise68	1993-09-07		Station: UG12-Diep (s-Z10s/Schouwendiep swale 1)			51.73	3.32	
+Cruise68:Station618			Cruise68:Station618	Cruise68	1993-09-07		Station: UG14-Ondiep (s-Z11c/Schouwen Bank crest )			51.79	3.42	
+Cruise68:Station619			Cruise68:Station619	Cruise68	1993-09-07		Station: UG14-Diep (s-Z12s/Schouwendiep swale 2)			51.78	3.44	
+Cruise68:Station620			Cruise68:Station620	Cruise68	1993-09-07		Station: UG17 (s-Z18s/off Bollen van Goeree swale)			51.91	3.71	
+Cruise68:Station622			Cruise68:Station622	Cruise68	1993-09-06		Station: 800 (s-H12/off Hinder Banks 5)			51.84	2.86	
+Cruise62:Station522:EventSea-Bird SBE21_9679			Cruise62:Station522:EventSea-Bird SBE21_9679	Cruise62:Station522				0.00	0.00			
+Cruise62:Station523:EventSea-Bird SBE21_9680			Cruise62:Station523:EventSea-Bird SBE21_9680	Cruise62:Station523				0.00	0.00			
+Cruise62:Station524:EventSea-Bird SBE21_9681			Cruise62:Station524:EventSea-Bird SBE21_9681	Cruise62:Station524				0.00	0.00			
+Cruise62:Station525:EventSea-Bird SBE21_9682			Cruise62:Station525:EventSea-Bird SBE21_9682	Cruise62:Station525				0.00	0.00			
+Cruise62:Station526:EventSea-Bird SBE21_9683			Cruise62:Station526:EventSea-Bird SBE21_9683	Cruise62:Station526				0.00	0.00			
+Cruise62:Station527:EventSea-Bird SBE21_9684			Cruise62:Station527:EventSea-Bird SBE21_9684	Cruise62:Station527				0.00	0.00			
+Cruise62:Station528:EventSea-Bird SBE21_9685			Cruise62:Station528:EventSea-Bird SBE21_9685	Cruise62:Station528				0.00	0.00			
+Cruise62:Station529:EventSea-Bird SBE21_9686			Cruise62:Station529:EventSea-Bird SBE21_9686	Cruise62:Station529				0.00	0.00			
+Cruise62:Station530:EventSea-Bird SBE21_9687			Cruise62:Station530:EventSea-Bird SBE21_9687	Cruise62:Station530				0.00	0.00			
+Cruise62:Station531:EventSea-Bird SBE21_9698			Cruise62:Station531:EventSea-Bird SBE21_9698	Cruise62:Station531				0.00	0.00			
+Cruise62:Station532:EventSea-Bird SBE21_9701			Cruise62:Station532:EventSea-Bird SBE21_9701	Cruise62:Station532				0.00	0.00			
+Cruise62:Station533:EventSea-Bird SBE21_9704			Cruise62:Station533:EventSea-Bird SBE21_9704	Cruise62:Station533				0.00	0.00			
+Cruise62:Station534:EventSea-Bird SBE21_9707			Cruise62:Station534:EventSea-Bird SBE21_9707	Cruise62:Station534				0.00	0.00			
+Cruise62:Station535:EventSea-Bird SBE21_9710			Cruise62:Station535:EventSea-Bird SBE21_9710	Cruise62:Station535				0.00	0.00			
+Cruise62:Station536:EventSea-Bird SBE21_9713			Cruise62:Station536:EventSea-Bird SBE21_9713	Cruise62:Station536				0.00	0.00			
+Cruise62:Station551:EventSea-Bird SBE21_9743			Cruise62:Station551:EventSea-Bird SBE21_9743	Cruise62:Station551				0.00	0.00			
+Cruise62:Station552:EventSea-Bird SBE21_9746			Cruise62:Station552:EventSea-Bird SBE21_9746	Cruise62:Station552				0.00	0.00			
+Cruise62:Station553:EventSea-Bird SBE38_9749			Cruise62:Station553:EventSea-Bird SBE38_9749	Cruise62:Station553				0.00	0.00			
+Cruise62:Station554:EventSea-Bird SBE21_9752			Cruise62:Station554:EventSea-Bird SBE21_9752	Cruise62:Station554				0.00	0.00			
+Cruise63:Station537:EventSea-Bird SBE21_9717			Cruise63:Station537:EventSea-Bird SBE21_9717	Cruise63:Station537				0.00	0.00			
+Cruise63:Station538:EventSea-Bird SBE21_9720			Cruise63:Station538:EventSea-Bird SBE21_9720	Cruise63:Station538				0.00	0.00			
+Cruise63:Station539:EventSea-Bird SBE21_9723			Cruise63:Station539:EventSea-Bird SBE21_9723	Cruise63:Station539				0.00	0.00			
+Cruise63:Station540:EventSea-Bird SBE21_9725			Cruise63:Station540:EventSea-Bird SBE21_9725	Cruise63:Station540				0.00	0.00			
+Cruise63:Station541:EventSea-Bird SBE21_9727			Cruise63:Station541:EventSea-Bird SBE21_9727	Cruise63:Station541				0.00	0.00			
+Cruise63:Station542:EventSea-Bird SBE21_9729			Cruise63:Station542:EventSea-Bird SBE21_9729	Cruise63:Station542				0.00	0.00			
+Cruise63:Station543:EventSea-Bird SBE21_9731			Cruise63:Station543:EventSea-Bird SBE21_9731	Cruise63:Station543				0.00	0.00			
+Cruise63:Station545:EventSea-Bird SBE21_9733			Cruise63:Station545:EventSea-Bird SBE21_9733	Cruise63:Station545				0.00	0.00			
+Cruise63:Station546:EventSea-Bird SBE21_9735			Cruise63:Station546:EventSea-Bird SBE21_9735	Cruise63:Station546				0.00	0.00			
+Cruise63:Station548:EventSea-Bird SBE21_9737			Cruise63:Station548:EventSea-Bird SBE21_9737	Cruise63:Station548				0.00	0.00			
+Cruise64:Station549:EventSea-Bird SBE21_9739			Cruise64:Station549:EventSea-Bird SBE21_9739	Cruise64:Station549				0.00	0.00			
+Cruise64:Station550:EventSea-Bird SBE21_9741			Cruise64:Station550:EventSea-Bird SBE21_9741	Cruise64:Station550				0.00	0.00			
+Cruise65:Station555:EventSea-Bird SBE09_9762			Cruise65:Station555:EventSea-Bird SBE09_9762	Cruise65:Station555				201.00	201.00			
+Cruise65:Station556:EventSea-Bird SBE09_9763			Cruise65:Station556:EventSea-Bird SBE09_9763	Cruise65:Station556				253.00	253.00			
+Cruise65:Station557:EventSea-Bird SBE09_9764			Cruise65:Station557:EventSea-Bird SBE09_9764	Cruise65:Station557				312.00	312.00			
+Cruise65:Station558:EventSea-Bird SBE09_9765			Cruise65:Station558:EventSea-Bird SBE09_9765	Cruise65:Station558				592.00	592.00			
+Cruise65:Station560:EventSea-Bird SBE09_9767			Cruise65:Station560:EventSea-Bird SBE09_9767	Cruise65:Station560				695.00	695.00			
+Cruise66:Station561:EventSea-Bird SBE21_9775			Cruise66:Station561:EventSea-Bird SBE21_9775	Cruise66:Station561				0.00	0.00			
+Cruise66:Station561:EventSecchi disc_9777			Cruise66:Station561:EventSecchi disc_9777	Cruise66:Station561								
+Cruise66:Station562:EventSea-Bird SBE21_9782			Cruise66:Station562:EventSea-Bird SBE21_9782	Cruise66:Station562				0.00	0.00			
+Cruise66:Station562:EventSecchi disc_9790			Cruise66:Station562:EventSecchi disc_9790	Cruise66:Station562								
+Cruise66:Station563:EventSea-Bird SBE21_9783			Cruise66:Station563:EventSea-Bird SBE21_9783	Cruise66:Station563				0.00	0.00			
+Cruise66:Station563:EventSecchi disc_9791			Cruise66:Station563:EventSecchi disc_9791	Cruise66:Station563								
+Cruise66:Station564:EventSea-Bird SBE21_9784			Cruise66:Station564:EventSea-Bird SBE21_9784	Cruise66:Station564				0.00	0.00			
+Cruise66:Station564:EventSecchi disc_9792			Cruise66:Station564:EventSecchi disc_9792	Cruise66:Station564								
+Cruise66:Station570:EventSea-Bird SBE21_9814			Cruise66:Station570:EventSea-Bird SBE21_9814	Cruise66:Station570				0.00	0.00			
+Cruise66:Station570:EventSecchi disc_9840			Cruise66:Station570:EventSecchi disc_9840	Cruise66:Station570								
+Cruise66:Station571:EventSea-Bird SBE21_9815			Cruise66:Station571:EventSea-Bird SBE21_9815	Cruise66:Station571				0.00	0.00			
+Cruise66:Station571:EventSecchi disc_9841			Cruise66:Station571:EventSecchi disc_9841	Cruise66:Station571								
+Cruise66:Station572:EventSea-Bird SBE21_9816			Cruise66:Station572:EventSea-Bird SBE21_9816	Cruise66:Station572				0.00	0.00			
+Cruise66:Station572:EventSecchi disc_9842			Cruise66:Station572:EventSecchi disc_9842	Cruise66:Station572								
+Cruise66:Station573:EventSea-Bird SBE21_9817			Cruise66:Station573:EventSea-Bird SBE21_9817	Cruise66:Station573				0.00	0.00			
+Cruise66:Station573:EventSecchi disc_9843			Cruise66:Station573:EventSecchi disc_9843	Cruise66:Station573								
+Cruise66:Station574:EventSea-Bird SBE21_9818			Cruise66:Station574:EventSea-Bird SBE21_9818	Cruise66:Station574				0.00	0.00			
+Cruise66:Station574:EventSecchi disc_9844			Cruise66:Station574:EventSecchi disc_9844	Cruise66:Station574								
+Cruise66:Station575:EventSea-Bird SBE21_9819			Cruise66:Station575:EventSea-Bird SBE21_9819	Cruise66:Station575				0.00	0.00			
+Cruise66:Station575:EventSecchi disc_9845			Cruise66:Station575:EventSecchi disc_9845	Cruise66:Station575								
+Cruise66:Station576:EventSea-Bird SBE21_9820			Cruise66:Station576:EventSea-Bird SBE21_9820	Cruise66:Station576				0.00	0.00			
+Cruise66:Station576:EventSecchi disc_9846			Cruise66:Station576:EventSecchi disc_9846	Cruise66:Station576								
+Cruise66:Station577:EventSea-Bird SBE21_9821			Cruise66:Station577:EventSea-Bird SBE21_9821	Cruise66:Station577				0.00	0.00			
+Cruise66:Station577:EventSecchi disc_9847			Cruise66:Station577:EventSecchi disc_9847	Cruise66:Station577								
+Cruise66:Station580:EventSea-Bird SBE21_9851			Cruise66:Station580:EventSea-Bird SBE21_9851	Cruise66:Station580				0.00	0.00			
+Cruise66:Station580:EventSecchi disc_9853			Cruise66:Station580:EventSecchi disc_9853	Cruise66:Station580								
+Cruise66:Station581:EventSea-Bird SBE21_9860			Cruise66:Station581:EventSea-Bird SBE21_9860	Cruise66:Station581				0.00	0.00			
+Cruise66:Station581:EventSecchi disc_9872			Cruise66:Station581:EventSecchi disc_9872	Cruise66:Station581								
+Cruise66:Station583:EventSea-Bird SBE21_9862			Cruise66:Station583:EventSea-Bird SBE21_9862	Cruise66:Station583				0.00	0.00			
+Cruise66:Station583:EventSecchi disc_9874			Cruise66:Station583:EventSecchi disc_9874	Cruise66:Station583								
+Cruise66:Station584:EventSea-Bird SBE21_9863			Cruise66:Station584:EventSea-Bird SBE21_9863	Cruise66:Station584				0.00	0.00			
+Cruise66:Station584:EventSecchi disc_9875			Cruise66:Station584:EventSecchi disc_9875	Cruise66:Station584								
+Cruise66:Station585:EventSea-Bird SBE21_9864			Cruise66:Station585:EventSea-Bird SBE21_9864	Cruise66:Station585				0.00	0.00			
+Cruise66:Station585:EventSecchi disc_9876			Cruise66:Station585:EventSecchi disc_9876	Cruise66:Station585								
+Cruise66:Station586:EventSea-Bird SBE21_9865			Cruise66:Station586:EventSea-Bird SBE21_9865	Cruise66:Station586				0.00	0.00			
+Cruise66:Station586:EventSecchi disc_9877			Cruise66:Station586:EventSecchi disc_9877	Cruise66:Station586								
+Cruise66:Station587:EventSea-Bird SBE21_9879			Cruise66:Station587:EventSea-Bird SBE21_9879	Cruise66:Station587				0.00	0.00			
+Cruise66:Station587:EventSecchi disc_9881			Cruise66:Station587:EventSecchi disc_9881	Cruise66:Station587								
+Cruise66:Station588:EventSea-Bird SBE21_9889			Cruise66:Station588:EventSea-Bird SBE21_9889	Cruise66:Station588				0.00	0.00			
+Cruise66:Station588:EventSecchi disc_9903			Cruise66:Station588:EventSecchi disc_9903	Cruise66:Station588								
+Cruise66:Station589:EventSea-Bird SBE21_9890			Cruise66:Station589:EventSea-Bird SBE21_9890	Cruise66:Station589				0.00	0.00			
+Cruise66:Station589:EventSecchi disc_9904			Cruise66:Station589:EventSecchi disc_9904	Cruise66:Station589								
+Cruise66:Station590:EventSea-Bird SBE21_9891			Cruise66:Station590:EventSea-Bird SBE21_9891	Cruise66:Station590				0.00	0.00			
+Cruise66:Station590:EventSecchi disc_9905			Cruise66:Station590:EventSecchi disc_9905	Cruise66:Station590								
+Cruise66:Station591:EventSea-Bird SBE21_9892			Cruise66:Station591:EventSea-Bird SBE21_9892	Cruise66:Station591				0.00	0.00			
+Cruise66:Station591:EventSecchi disc_9906			Cruise66:Station591:EventSecchi disc_9906	Cruise66:Station591								
+Cruise66:Station607:EventSea-Bird SBE21_9959			Cruise66:Station607:EventSea-Bird SBE21_9959	Cruise66:Station607				0.00	0.00			
+Cruise66:Station607:EventSecchi disc_9961			Cruise66:Station607:EventSecchi disc_9961	Cruise66:Station607								
+Cruise66:Station608:EventSea-Bird SBE21_9971			Cruise66:Station608:EventSea-Bird SBE21_9971	Cruise66:Station608				0.00	0.00			
+Cruise66:Station608:EventSecchi disc_9989			Cruise66:Station608:EventSecchi disc_9989	Cruise66:Station608								
+Cruise66:Station621:EventSea-Bird SBE21_10015			Cruise66:Station621:EventSea-Bird SBE21_10015	Cruise66:Station621				0.00	0.00			
+Cruise66:Station621:EventSecchi disc_10017			Cruise66:Station621:EventSecchi disc_10017	Cruise66:Station621								
+Cruise68:Station565:EventSea-Bird SBE21_9785			Cruise68:Station565:EventSea-Bird SBE21_9785	Cruise68:Station565				0.00	0.00			
+Cruise68:Station565:EventSecchi disc_9793			Cruise68:Station565:EventSecchi disc_9793	Cruise68:Station565								
+Cruise68:Station566:EventSea-Bird SBE21_9797			Cruise68:Station566:EventSea-Bird SBE21_9797	Cruise68:Station566				0.00	0.00			
+Cruise68:Station566:EventSecchi disc_9795			Cruise68:Station566:EventSecchi disc_9795	Cruise68:Station566								
+Cruise68:Station567:EventSea-Bird SBE21_9811			Cruise68:Station567:EventSea-Bird SBE21_9811	Cruise68:Station567				0.00	0.00			
+Cruise68:Station567:EventSecchi disc_9837			Cruise68:Station567:EventSecchi disc_9837	Cruise68:Station567								
+Cruise68:Station568:EventSea-Bird SBE21_9812			Cruise68:Station568:EventSea-Bird SBE21_9812	Cruise68:Station568				0.00	0.00			
+Cruise68:Station568:EventSecchi disc_9838			Cruise68:Station568:EventSecchi disc_9838	Cruise68:Station568								
+Cruise68:Station569:EventSea-Bird SBE21_9813			Cruise68:Station569:EventSea-Bird SBE21_9813	Cruise68:Station569				0.00	0.00			
+Cruise68:Station569:EventSecchi disc_9839			Cruise68:Station569:EventSecchi disc_9839	Cruise68:Station569								
+Cruise68:Station578:EventSea-Bird SBE21_9822			Cruise68:Station578:EventSea-Bird SBE21_9822	Cruise68:Station578				0.00	0.00			
+Cruise68:Station578:EventSecchi disc_9848			Cruise68:Station578:EventSecchi disc_9848	Cruise68:Station578								
+Cruise68:Station579:EventSea-Bird SBE21_9823			Cruise68:Station579:EventSea-Bird SBE21_9823	Cruise68:Station579				0.00	0.00			
+Cruise68:Station579:EventSecchi disc_9849			Cruise68:Station579:EventSecchi disc_9849	Cruise68:Station579								
+Cruise68:Station582:EventSea-Bird SBE21_9861			Cruise68:Station582:EventSea-Bird SBE21_9861	Cruise68:Station582				0.00	0.00			
+Cruise68:Station582:EventSecchi disc_9873			Cruise68:Station582:EventSecchi disc_9873	Cruise68:Station582								
+Cruise68:Station592:EventSea-Bird SBE21_9893			Cruise68:Station592:EventSea-Bird SBE21_9893	Cruise68:Station592				0.00	0.00			
+Cruise68:Station592:EventSecchi disc_9907			Cruise68:Station592:EventSecchi disc_9907	Cruise68:Station592								
+Cruise68:Station593:EventSea-Bird SBE21_9894			Cruise68:Station593:EventSea-Bird SBE21_9894	Cruise68:Station593				0.00	0.00			
+Cruise68:Station593:EventSecchi disc_9908			Cruise68:Station593:EventSecchi disc_9908	Cruise68:Station593								
+Cruise68:Station594:EventSea-Bird SBE21_9895			Cruise68:Station594:EventSea-Bird SBE21_9895	Cruise68:Station594				0.00	0.00			
+Cruise68:Station594:EventSecchi disc_9909			Cruise68:Station594:EventSecchi disc_9909	Cruise68:Station594								
+Cruise68:Station595:EventSea-Bird SBE21_9911			Cruise68:Station595:EventSea-Bird SBE21_9911	Cruise68:Station595				0.00	0.00			
+Cruise68:Station595:EventSecchi disc_9913			Cruise68:Station595:EventSecchi disc_9913	Cruise68:Station595								
+Cruise68:Station596:EventSea-Bird SBE21_9925			Cruise68:Station596:EventSea-Bird SBE21_9925	Cruise68:Station596				0.00	0.00			
+Cruise68:Station596:EventSecchi disc_9947			Cruise68:Station596:EventSecchi disc_9947	Cruise68:Station596								
+Cruise68:Station597:EventSea-Bird SBE21_9926			Cruise68:Station597:EventSea-Bird SBE21_9926	Cruise68:Station597				0.00	0.00			
+Cruise68:Station597:EventSecchi disc_9948			Cruise68:Station597:EventSecchi disc_9948	Cruise68:Station597								
+Cruise68:Station598:EventSea-Bird SBE21_9927			Cruise68:Station598:EventSea-Bird SBE21_9927	Cruise68:Station598				0.00	0.00			
+Cruise68:Station598:EventSecchi disc_9949			Cruise68:Station598:EventSecchi disc_9949	Cruise68:Station598								
+Cruise68:Station599:EventSea-Bird SBE21_9928			Cruise68:Station599:EventSea-Bird SBE21_9928	Cruise68:Station599				0.00	0.00			
+Cruise68:Station599:EventSecchi disc_9950			Cruise68:Station599:EventSecchi disc_9950	Cruise68:Station599								
+Cruise68:Station600:EventSea-Bird SBE21_9929			Cruise68:Station600:EventSea-Bird SBE21_9929	Cruise68:Station600				0.00	0.00			
+Cruise68:Station600:EventSecchi disc_9951			Cruise68:Station600:EventSecchi disc_9951	Cruise68:Station600								
+Cruise68:Station601:EventSea-Bird SBE21_9930			Cruise68:Station601:EventSea-Bird SBE21_9930	Cruise68:Station601				0.00	0.00			
+Cruise68:Station601:EventSecchi disc_9952			Cruise68:Station601:EventSecchi disc_9952	Cruise68:Station601								
+Cruise68:Station602:EventSea-Bird SBE21_9931			Cruise68:Station602:EventSea-Bird SBE21_9931	Cruise68:Station602				0.00	0.00			
+Cruise68:Station602:EventSecchi disc_9953			Cruise68:Station602:EventSecchi disc_9953	Cruise68:Station602								
+Cruise68:Station603:EventSea-Bird SBE21_9932			Cruise68:Station603:EventSea-Bird SBE21_9932	Cruise68:Station603				0.00	0.00			
+Cruise68:Station603:EventSecchi disc_9954			Cruise68:Station603:EventSecchi disc_9954	Cruise68:Station603								
+Cruise68:Station604:EventSea-Bird SBE21_9933			Cruise68:Station604:EventSea-Bird SBE21_9933	Cruise68:Station604				0.00	0.00			
+Cruise68:Station604:EventSecchi disc_9955			Cruise68:Station604:EventSecchi disc_9955	Cruise68:Station604								
+Cruise68:Station605:EventSea-Bird SBE21_9934			Cruise68:Station605:EventSea-Bird SBE21_9934	Cruise68:Station605				0.00	0.00			
+Cruise68:Station605:EventSecchi disc_9956			Cruise68:Station605:EventSecchi disc_9956	Cruise68:Station605								
+Cruise68:Station606:EventSea-Bird SBE21_9935			Cruise68:Station606:EventSea-Bird SBE21_9935	Cruise68:Station606				0.00	0.00			
+Cruise68:Station606:EventSecchi disc_9957			Cruise68:Station606:EventSecchi disc_9957	Cruise68:Station606								
+Cruise68:Station609:EventSea-Bird SBE21_9972			Cruise68:Station609:EventSea-Bird SBE21_9972	Cruise68:Station609				0.00	0.00			
+Cruise68:Station609:EventSecchi disc_9990			Cruise68:Station609:EventSecchi disc_9990	Cruise68:Station609								
+Cruise68:Station610:EventSea-Bird SBE21_9973			Cruise68:Station610:EventSea-Bird SBE21_9973	Cruise68:Station610				0.00	0.00			
+Cruise68:Station610:EventSecchi disc_9991			Cruise68:Station610:EventSecchi disc_9991	Cruise68:Station610								
+Cruise68:Station611:EventSea-Bird SBE21_9974			Cruise68:Station611:EventSea-Bird SBE21_9974	Cruise68:Station611				0.00	0.00			
+Cruise68:Station611:EventSecchi disc_9992			Cruise68:Station611:EventSecchi disc_9992	Cruise68:Station611								
+Cruise68:Station612:EventSea-Bird SBE21_9975			Cruise68:Station612:EventSea-Bird SBE21_9975	Cruise68:Station612				0.00	0.00			
+Cruise68:Station612:EventSecchi disc_9993			Cruise68:Station612:EventSecchi disc_9993	Cruise68:Station612								
+Cruise68:Station613:EventSea-Bird SBE21_9976			Cruise68:Station613:EventSea-Bird SBE21_9976	Cruise68:Station613				0.00	0.00			
+Cruise68:Station613:EventSecchi disc_9994			Cruise68:Station613:EventSecchi disc_9994	Cruise68:Station613								
+Cruise68:Station614:EventSea-Bird SBE21_9977			Cruise68:Station614:EventSea-Bird SBE21_9977	Cruise68:Station614				0.00	0.00			
+Cruise68:Station614:EventSecchi disc_9995			Cruise68:Station614:EventSecchi disc_9995	Cruise68:Station614								
+Cruise68:Station615:EventSea-Bird SBE21_9978			Cruise68:Station615:EventSea-Bird SBE21_9978	Cruise68:Station615				0.00	0.00			
+Cruise68:Station615:EventSecchi disc_9996			Cruise68:Station615:EventSecchi disc_9996	Cruise68:Station615								
+Cruise68:Station616:EventSea-Bird SBE21_9979			Cruise68:Station616:EventSea-Bird SBE21_9979	Cruise68:Station616				0.00	0.00			
+Cruise68:Station616:EventSecchi disc_9997			Cruise68:Station616:EventSecchi disc_9997	Cruise68:Station616								
+Cruise68:Station617:EventSea-Bird SBE21_9999			Cruise68:Station617:EventSea-Bird SBE21_9999	Cruise68:Station617				0.00	0.00			
+Cruise68:Station617:EventSecchi disc_10001			Cruise68:Station617:EventSecchi disc_10001	Cruise68:Station617								
+Cruise68:Station618:EventSea-Bird SBE21_10005			Cruise68:Station618:EventSea-Bird SBE21_10005	Cruise68:Station618				0.00	0.00			
+Cruise68:Station618:EventSecchi disc_10011			Cruise68:Station618:EventSecchi disc_10011	Cruise68:Station618								
+Cruise68:Station619:EventSea-Bird SBE21_10006			Cruise68:Station619:EventSea-Bird SBE21_10006	Cruise68:Station619				0.00	0.00			
+Cruise68:Station619:EventSecchi disc_10012			Cruise68:Station619:EventSecchi disc_10012	Cruise68:Station619								
+Cruise68:Station620:EventSea-Bird SBE21_10007			Cruise68:Station620:EventSea-Bird SBE21_10007	Cruise68:Station620				0.00	0.00			
+Cruise68:Station620:EventSecchi disc_10013			Cruise68:Station620:EventSecchi disc_10013	Cruise68:Station620								
+Cruise68:Station622:EventSea-Bird SBE21_10019			Cruise68:Station622:EventSea-Bird SBE21_10019	Cruise68:Station622				0.00	0.00			
+Cruise68:Station622:EventSecchi disc_10021			Cruise68:Station622:EventSecchi disc_10021	Cruise68:Station622								
+Cruise10:Station75:EventSorbeSledge966			Cruise10:Station75:EventSorbeSledge966	Cruise10:Station75	1995-03-23 07:56:08Z			11.09	11.09	51.18	2.70	
+Cruise12:Station103:EventSorbeSledge992			Cruise12:Station103:EventSorbeSledge992	Cruise12:Station103	1995-05-23 07:18:58Z			16.41	16.41	51.15	2.60	
+Cruise12:Station97:EventSorbeSledge986			Cruise12:Station97:EventSorbeSledge986	Cruise12:Station97	1995-05-22 16:34:50Z			21.24	21.24	51.27	2.61	
+Cruise13:Station108:EventSorbeSledge997			Cruise13:Station108:EventSorbeSledge997	Cruise13:Station108	1995-06-19 16:45:17Z			9.42	9.42	51.27	3.05	
+Cruise14:Station125:EventSorbeSledge1014			Cruise14:Station125:EventSorbeSledge1014	Cruise14:Station125	1995-07-10 15:58:08Z			12.67	12.67	51.15	2.60	
+Cruise15:Station1674:EventSorbeSledge16403			Cruise15:Station1674:EventSorbeSledge16403	Cruise15:Station1674	1995-08-17					51.28	2.85	
+Cruise18:Station161:EventSorbeSledge1050			Cruise18:Station161:EventSorbeSledge1050	Cruise18:Station161	1995-12-18 15:18:11Z			9.62	9.62	51.15	2.54	
+Cruise4:Station12:EventSorbeSledge903			Cruise4:Station12:EventSorbeSledge903	Cruise4:Station12	1994-09-06 18:39:00Z			18.5	18.5	51.27	2.61	
+Cruise4:Station14:EventSorbeSledge905			Cruise4:Station14:EventSorbeSledge905	Cruise4:Station14	1994-09-07 17:17:41Z			9.65	9.65	51.37	3.31	
+Cruise4:Station9:EventSorbeSledge900			Cruise4:Station9:EventSorbeSledge900	Cruise4:Station9	1994-09-06 13:40:00Z			14.14	14.14	51.18	2.70	
+Cruise6:Station19:EventSorbeSledge910			Cruise6:Station19:EventSorbeSledge910	Cruise6:Station19	1994-10-06 19:01:35Z			9.42	9.42	51.18	2.70	
+Cruise62:Station522:EventSorbeSledge9670			Cruise62:Station522:EventSorbeSledge9670	Cruise62:Station522	1994-08-31			58	58	54.15	2.58	
+Cruise62:Station523:EventSorbeSledge9671			Cruise62:Station523:EventSorbeSledge9671	Cruise62:Station523	1994-08-31			27	27	54.26	2.45	
+Cruise62:Station524:EventSorbeSledge9672			Cruise62:Station524:EventSorbeSledge9672	Cruise62:Station524	1994-08-31			15	15	54.29	2.47	
+Cruise62:Station525:EventSorbeSledge9673			Cruise62:Station525:EventSorbeSledge9673	Cruise62:Station525	1994-08-31			20	20	54.58	2.13	
+Cruise62:Station526:EventSorbeSledge9674			Cruise62:Station526:EventSorbeSledge9674	Cruise62:Station526	1994-08-31			32	32	54.72	2.00	
+Cruise62:Station527:EventSorbeSledge9675			Cruise62:Station527:EventSorbeSledge9675	Cruise62:Station527	1994-08-31			28	28	54.81	1.91	
+Cruise62:Station528:EventSorbeSledge9676			Cruise62:Station528:EventSorbeSledge9676	Cruise62:Station528	1994-08-31			26	26	54.91	1.78	
+Cruise62:Station529:EventSorbeSledge9677			Cruise62:Station529:EventSorbeSledge9677	Cruise62:Station529	1994-08-31			37	37	54.58	1.20	
+Cruise62:Station530:EventSorbeSledge9678			Cruise62:Station530:EventSorbeSledge9678	Cruise62:Station530	1994-08-31			70	70	54.58	1.36	
+Cruise62:Station531:EventSorbeSledge9697			Cruise62:Station531:EventSorbeSledge9697	Cruise62:Station531	1994-08-31			30.7	30.7	53.46	4.54	
+Cruise62:Station532:EventSorbeSledge9700			Cruise62:Station532:EventSorbeSledge9700	Cruise62:Station532	1994-08-31			32.7	32.7	53.59	4.45	
+Cruise62:Station533:EventSorbeSledge9703			Cruise62:Station533:EventSorbeSledge9703	Cruise62:Station533	1994-08-31			40.7	40.7	53.67	4.41	
+Cruise62:Station534:EventSorbeSledge9706			Cruise62:Station534:EventSorbeSledge9706	Cruise62:Station534	1994-08-31			42.7	42.7	53.71	4.38	
+Cruise62:Station535:EventSorbeSledge9709			Cruise62:Station535:EventSorbeSledge9709	Cruise62:Station535	1994-08-31			43.7	43.7	53.74	4.35	
+Cruise62:Station536:EventSorbeSledge9712			Cruise62:Station536:EventSorbeSledge9712	Cruise62:Station536	1994-08-31			46.7	46.7	53.87	4.28	
+Cruise62:Station551:EventSorbeSledge9742			Cruise62:Station551:EventSorbeSledge9742	Cruise62:Station551	1994-08-31			31.7	31.7	53.63	4.82	
+Cruise62:Station552:EventSorbeSledge9745			Cruise62:Station552:EventSorbeSledge9745	Cruise62:Station552	1994-08-31			38.7	38.7	53.70	4.76	
+Cruise62:Station553:EventSorbeSledge9748			Cruise62:Station553:EventSorbeSledge9748	Cruise62:Station553	1994-08-31			40.7	40.7	53.75	4.68	
+Cruise62:Station554:EventSorbeSledge9751			Cruise62:Station554:EventSorbeSledge9751	Cruise62:Station554	1994-08-31			43.7	43.7	53.84	4.61	
+Cruise63:Station537:EventSorbeSledge9716			Cruise63:Station537:EventSorbeSledge9716	Cruise63:Station537	1996-04-16			27.38	27.38	53.46	4.54	
+Cruise63:Station538:EventSorbeSledge9719			Cruise63:Station538:EventSorbeSledge9719	Cruise63:Station538	1996-04-16			29.44	29.44	53.59	4.45	
+Cruise63:Station539:EventSorbeSledge9722			Cruise63:Station539:EventSorbeSledge9722	Cruise63:Station539	1996-04-16			36.83	36.83	53.67	4.41	
+Cruise63:Station540:EventSorbeSledge9724			Cruise63:Station540:EventSorbeSledge9724	Cruise63:Station540	1996-04-16			37.9	37.9	53.71	4.38	
+Cruise63:Station541:EventSorbeSledge9726			Cruise63:Station541:EventSorbeSledge9726	Cruise63:Station541	1996-04-16			39.67	39.67	53.74	4.35	
+Cruise63:Station542:EventSorbeSledge9728			Cruise63:Station542:EventSorbeSledge9728	Cruise63:Station542	1996-04-16			42.18	42.18	53.87	4.28	
+Cruise63:Station543:EventSorbeSledge9730			Cruise63:Station543:EventSorbeSledge9730	Cruise63:Station543	1996-04-16			47.21	47.21	54.04	4.09	
+Cruise63:Station545:EventSorbeSledge9732			Cruise63:Station545:EventSorbeSledge9732	Cruise63:Station545	1996-04-16			36.55	36.55	53.70	4.76	
+Cruise63:Station546:EventSorbeSledge9734			Cruise63:Station546:EventSorbeSledge9734	Cruise63:Station546	1996-04-16			38.72	38.72	53.75	4.68	
+Cruise63:Station548:EventSorbeSledge9736			Cruise63:Station548:EventSorbeSledge9736	Cruise63:Station548	1996-04-16			44.42	44.42	53.98	4.47	
+Cruise64:Station549:EventSorbeSledge9738			Cruise64:Station549:EventSorbeSledge9738	Cruise64:Station549	1996-04-25			27.57	27.57	53.63	4.82	
+Cruise64:Station550:EventSorbeSledge9740			Cruise64:Station550:EventSorbeSledge9740	Cruise64:Station550	1996-04-25			40.57	40.57	53.84	4.61	
+Cruise65:Station555:EventSorbeSledge9756			Cruise65:Station555:EventSorbeSledge9756	Cruise65:Station555	1995-09-23			201	201	47.99	-7.79	
+Cruise65:Station556:EventSorbeSledge9757			Cruise65:Station556:EventSorbeSledge9757	Cruise65:Station556	1995-09-24			253	253	47.87	-7.84	
+Cruise65:Station557:EventSorbeSledge9758			Cruise65:Station557:EventSorbeSledge9758	Cruise65:Station557	1995-09-24			312	312	47.85	-7.88	
+Cruise65:Station558:EventSorbeSledge9759			Cruise65:Station558:EventSorbeSledge9759	Cruise65:Station558	1995-09-25			592	592	47.79	-8.01	
+Cruise65:Station559:EventSorbeSledge9760			Cruise65:Station559:EventSorbeSledge9760	Cruise65:Station559	1995-09-24			650	650	47.78	-8.02	
+Cruise65:Station560:EventSorbeSledge9761			Cruise65:Station560:EventSorbeSledge9761	Cruise65:Station560	1995-09-25			695	695	47.74	-8.00	
+Cruise66:Station561:EventSorbeSledge9774			Cruise66:Station561:EventSorbeSledge9774	Cruise66:Station561	1993-09-01 15:34:20Z/15:39:20Z			18.1	18.2	51.15	2.60	Linestring (2.601 51.154, 2.597 51.153)
+Cruise66:Station562:EventSorbeSledge9778			Cruise66:Station562:EventSorbeSledge9778	Cruise66:Station562	1993-09-01 14:56:57Z/15:01:57Z			11	14.1	51.14	2.53	Linestring (2.539 51.146, 2.529 51.144)
+Cruise66:Station563:EventSorbeSledge9779			Cruise66:Station563:EventSorbeSledge9779	Cruise66:Station563	1993-09-01 14:33:15Z/14:38:15Z			21.1	21.2	51.14	2.54	Linestring (2.542 51.146, 2.539 51.144)
+Cruise66:Station564:EventSorbeSledge9780			Cruise66:Station564:EventSorbeSledge9780	Cruise66:Station564	1993-09-02 16:36:46Z/16:41:46Z			25	25.3	51.43	2.82	Linestring (2.824 51.438, 2.825 51.436)
+Cruise66:Station570:EventSorbeSledge9801			Cruise66:Station570:EventSorbeSledge9801	Cruise66:Station570	1993-09-02 11:14:20Z/11:19:20Z			7.3	7.6	51.31	3.05	Linestring (3.05 51.316, 3.054 51.317)
+Cruise66:Station571:EventSorbeSledge9802			Cruise66:Station571:EventSorbeSledge9802	Cruise66:Station571	1993-08-31 19:30:05Z/19:35:05Z			10	9	51.42	3.22	Linestring (3.222 51.42, 3.226 51.419)
+Cruise66:Station572:EventSorbeSledge9803			Cruise66:Station572:EventSorbeSledge9803	Cruise66:Station572	1993-08-31 19:04:12Z/19:09:12Z			13.2	14	51.41	3.21	Linestring (3.219 51.412, 3.222 51.2412)
+Cruise66:Station573:EventSorbeSledge9804			Cruise66:Station573:EventSorbeSledge9804	Cruise66:Station573	1993-09-02 08:18:43Z/08:23:43Z			9	9.2	51.25	2.80	Linestring (2.802 51.247, 2.806 51.258)
+Cruise66:Station574:EventSorbeSledge9805			Cruise66:Station574:EventSorbeSledge9805	Cruise66:Station574	1993-09-01 11:44:42Z/11:49:42Z			16.5	21.7	51.31	2.57	Linestring (2.572 51.31, 2.575 51.312)
+Cruise66:Station575:EventSorbeSledge9806			Cruise66:Station575:EventSorbeSledge9806	Cruise66:Station575	1993-09-01 11:18:40Z/11:23:40Z			23.4	24	51.29	2.54	Linestring (2.542 51.297, 2.544 51.299)
+Cruise66:Station576:EventSorbeSledge9807			Cruise66:Station576:EventSorbeSledge9807	Cruise66:Station576	1993-09-01 07:54:12Z/07:59:12Z			11.5	11.6	51.31	2.74	Linestring (2.744 51.317, 2.746 51.319)
+Cruise66:Station577:EventSorbeSledge9808			Cruise66:Station577:EventSorbeSledge9808	Cruise66:Station577	1993-09-01 07:23:27Z/07:28:27Z			22.2	22.6	51.31	2.71	Linestring (2.715 51.314, 2.717 51.315)
+Cruise66:Station580:EventSorbeSledge9850			Cruise66:Station580:EventSorbeSledge9850	Cruise66:Station580	1993-08-31 16:02:52Z/16:07:52Z			8.6	8.7	51.38	3.31	Linestring (3.317 51.383, 3.314 51.381)
+Cruise66:Station581:EventSorbeSledge9854			Cruise66:Station581:EventSorbeSledge9854	Cruise66:Station581	1993-08-31 16:53:28Z/16:58:28Z			14.8	14.9	51.39	3.34	Linestring (3.344 51.397, 3.348 51.397)
+Cruise66:Station583:EventSorbeSledge9856			Cruise66:Station583:EventSorbeSledge9856	Cruise66:Station583	1993-09-02 07:39:30Z/07:44:30Z			10.9	11.2	51.24	2.84	Linestring (2.841 51.248, 2.845 51.248)
+Cruise66:Station584:EventSorbeSledge9857			Cruise66:Station584:EventSorbeSledge9857	Cruise66:Station584	1993-09-01 10:15:16Z/10:20:16Z			14.3	17.1	51.32	2.48	Linestring (2.489 51.325, 2.492 51.327)
+Cruise66:Station585:EventSorbeSledge9858			Cruise66:Station585:EventSorbeSledge9858	Cruise66:Station585	1993-09-01 09:49:22Z/09:54:22Z			31.1	31.3	51.32	2.45	Linestring (2.456 51.319, 2.458 51.325)
+Cruise66:Station586:EventSorbeSledge9859			Cruise66:Station586:EventSorbeSledge9859	Cruise66:Station586	1993-09-01 13:14:44Z/13:19:44Z			13	15	51.25	2.61	Linestring (2.619 51.257, 2.622 51.255)
+Cruise66:Station587:EventSorbeSledge9878			Cruise66:Station587:EventSorbeSledge9878	Cruise66:Station587	1993-09-01 15:58:24Z/16:03:24Z			9.1	9.1	51.14	2.59	Linestring (2.598 51.144, 2.594 51.142)
+Cruise66:Station588:EventSorbeSledge9882			Cruise66:Station588:EventSorbeSledge9882	Cruise66:Station588	1993-09-01 17:39:00Z/17:44:00Z			12.1	13	51.19	2.72	Linestring (2.722 51.19, 2.717 51.19)
+Cruise66:Station589:EventSorbeSledge9883			Cruise66:Station589:EventSorbeSledge9883	Cruise66:Station589	1993-09-02 09:27:40Z/09:32:40Z			12.1	12.4	51.31	2.85	Linestring (2.84 51.304, 2.844 51.305)
+Cruise66:Station590:EventSorbeSledge9884			Cruise66:Station590:EventSorbeSledge9884	Cruise66:Station590	1993-09-02 09:52:33Z/09:57:33Z			12.7	12.8	51.30	2.84	Linestring (2.851 51.309, 2.854 51.311)
+Cruise66:Station591:EventSorbeSledge9885			Cruise66:Station591:EventSorbeSledge9885	Cruise66:Station591	1993-09-01 12:48:50Z/12:53:50Z			26.5	27.4	51.26	2.61	Linestring (2.612 51.268, 2.614 51.269)
+Cruise66:Station607:EventSorbeSledge9958			Cruise66:Station607:EventSorbeSledge9958	Cruise66:Station607	1993-09-01 16:51:25Z/16:56:25Z			13.5	14.5	51.17	2.67	Linestring (2.672 51.175, 2.67 51.174)
+Cruise66:Station608:EventSorbeSledge9962			Cruise66:Station608:EventSorbeSledge9962	Cruise66:Station608	1993-09-02 08:53:40Z/08:58:40Z			10.4	9.9	51.29	2.83	Linestring (2.83 51.29, 2.834 51.29)
+Cruise66:Station621:EventSorbeSledge10014			Cruise66:Station621:EventSorbeSledge10014	Cruise66:Station621	1993-08-31 18:12:29Z/18:17:29Z			11	12.5	51.37	3.21	Linestring (3.211 51.377, 3.215 51.377)
+Cruise68:Station1651:EventSorbeSledge16264			Cruise68:Station1651:EventSorbeSledge16264	Cruise68:Station1651	1993-09-08 09:13:40Z/09:18:40Z			34.5	34.8	51.48	2.45	Linestring (2.449 51.478, 2.448 51.475)
+Cruise68:Station565:EventSorbeSledge9781			Cruise68:Station565:EventSorbeSledge9781	Cruise68:Station565	1993-09-06 12:49:40Z/12:54:40Z			15.2	17	51.53	2.95	Linestring (2.955 51.536, 2.957 51.537)
+Cruise68:Station566:EventSorbeSledge9796			Cruise68:Station566:EventSorbeSledge9796	Cruise68:Station566	1993-09-09 08:17:27Z/08:22:27Z			12.8	12.9	51.42	3.63	Linestring (3.634 51.42, 3.638 51.421)
+Cruise68:Station567:EventSorbeSledge9798			Cruise68:Station567:EventSorbeSledge9798	Cruise68:Station567	1993-09-09 10:56:24Z/11:01:24Z			10.7	14.4	51.45	3.97	Linestring (3.974 51.451, 3.965 51.453)
+Cruise68:Station568:EventSorbeSledge9799			Cruise68:Station568:EventSorbeSledge9799	Cruise68:Station568	1993-09-09 12:26:20Z/12:31:20Z			22.6	28.2	51.37	4.15	Linestring (4.154 51.378, 4.162 51.379)
+Cruise68:Station569:EventSorbeSledge9800			Cruise68:Station569:EventSorbeSledge9800	Cruise68:Station569	1993-09-09 13:07:36Z/13:12:36Z			17.7	20.1	51.37	4.21	Linestring (4.216 51.375, 4.218 51.372)
+Cruise68:Station578:EventSorbeSledge9809			Cruise68:Station578:EventSorbeSledge9809	Cruise68:Station578	1993-09-06 13:33:50Z/13:38:50Z			23.9	26.7	51.55	2.90	Linestring (2.904 51.554, 2.905 51.557)
+Cruise68:Station579:EventSorbeSledge9810			Cruise68:Station579:EventSorbeSledge9810	Cruise68:Station579	1993-09-08 17:47:26Z/17:52:26Z			15.3	16	51.49	3.20	Linestring (3.201 51.497, 3.198 51.498)
+Cruise68:Station582:EventSorbeSledge9855			Cruise68:Station582:EventSorbeSledge9855	Cruise68:Station582	1993-09-08 19:25:55Z/19:30:55Z			14.8	14.8	51.42	3.39	Linestring (3.393 51.419, 3.388 51.419)
+Cruise68:Station592:EventSorbeSledge9886			Cruise68:Station592:EventSorbeSledge9886	Cruise68:Station592	1993-09-08 17:22:45Z/17:27:45Z			18.8	19.2	51.51	3.19	Linestring (3.197 51.517, 3.193 51.517)
+Cruise68:Station593:EventSorbeSledge9887			Cruise68:Station593:EventSorbeSledge9887	Cruise68:Station593	1993-09-08 16:01:53Z/16:06:53Z			15.1	16.7	51.61	3.13	Linestring (3.139 51.616, 3.14 51.617)
+Cruise68:Station594:EventSorbeSledge9888			Cruise68:Station594:EventSorbeSledge9888	Cruise68:Station594	1993-09-07 08:24:04Z/08:29:04Z			13.1	14.7	51.73	3.32	Linestring (3.327 51.736, 3.331 51.739)
+Cruise68:Station595:EventSorbeSledge9910			Cruise68:Station595:EventSorbeSledge9910	Cruise68:Station595	1993-09-07 12:50:48Z/12:55:48Z			10.1	10.3	51.93	3.96	Linestring (3.964 51.932, 3.969 51.934)
+Cruise68:Station596:EventSorbeSledge9914			Cruise68:Station596:EventSorbeSledge9914	Cruise68:Station596	1993-09-07 12:24:20Z/12:29:20Z			13.8	14.2	51.93	3.93	Linestring (3.932 51.934, 3.934 51.937)
+Cruise68:Station597:EventSorbeSledge9915			Cruise68:Station597:EventSorbeSledge9915	Cruise68:Station597	1993-09-08 09:39:40Z/09:44:40Z			18.1	24.6	51.47	2.40	Linestring (2.409 51.473, 2.407 51.472)
+Cruise68:Station598:EventSorbeSledge9916			Cruise68:Station598:EventSorbeSledge9916	Cruise68:Station598	1993-09-08 12:30:23Z/12:35:23Z			38.4	38.9	51.63	2.55	Linestring (2.552 51.629, 2.554 51.632)
+Cruise68:Station599:EventSorbeSledge9917			Cruise68:Station599:EventSorbeSledge9917	Cruise68:Station599	1993-09-08 08:40:05Z/08:45:05Z			13.2	13.5	51.47	2.53	Linestring (2.538 51.469, 2.537 51.469)
+Cruise68:Station600:EventSorbeSledge9918			Cruise68:Station600:EventSorbeSledge9918	Cruise68:Station600	1993-09-08 08:06:05Z/08:11:05Z			35.4	37.1	51.47	2.58	Linestring (2.583 51.476, 2.582 51.474)
+Cruise68:Station601:EventSorbeSledge9919			Cruise68:Station601:EventSorbeSledge9919	Cruise68:Station601	1993-09-06 14:50:50Z/14:55:50Z			14.6	15.2	51.59	2.77	Linestring (2.771 51.595, 2.772 51.597)
+Cruise68:Station602:EventSorbeSledge9920			Cruise68:Station602:EventSorbeSledge9920	Cruise68:Station602	1993-09-06 14:21:23Z/14:26:23Z			33.1	33.7	51.58	2.79	Linestring (2.792 51.582, 2.791 51.586)
+Cruise68:Station603:EventSorbeSledge9921			Cruise68:Station603:EventSorbeSledge9921	Cruise68:Station603	1993-09-06 15:24:37Z/15:29:37Z			33.9	35	51.65	2.75	Linestring (2.75 51.649, 2.749 51.652)
+Cruise68:Station604:EventSorbeSledge9922			Cruise68:Station604:EventSorbeSledge9922	Cruise68:Station604	1993-09-08 10:46:10Z/10:51:10Z			34.9	36.3	51.59	2.35	Linestring (2.353 51.59, 2.355 51.592)
+Cruise68:Station605:EventSorbeSledge9923			Cruise68:Station605:EventSorbeSledge9923	Cruise68:Station605	1993-09-08 11:49:48Z/11:54:48Z			32	35.3	51.65	2.48	Linestring (2.481 51.649, 2.483 51.651)
+Cruise68:Station606:EventSorbeSledge9924			Cruise68:Station606:EventSorbeSledge9924	Cruise68:Station606	1993-09-06 19:08:34Z/19:13:34Z			36.7	36.8	51.73	3.06	Linestring (3.068 51.729, 3.067 51.727)
+Cruise68:Station609:EventSorbeSledge9963			Cruise68:Station609:EventSorbeSledge9963	Cruise68:Station609	1993-09-08 16:29:10Z/16:34:10Z			27.2	27.7	51.61	3.16	Linestring (3.165 51.613, 3.169 51.615)
+Cruise68:Station610:EventSorbeSledge9964			Cruise68:Station610:EventSorbeSledge9964	Cruise68:Station610	1993-09-07 16:04:15Z/16:09:15Z			11.3	11.4	51.76	3.58	Linestring (3.588 51.763, 3.591 51.763)
+Cruise68:Station611:EventSorbeSledge9965			Cruise68:Station611:EventSorbeSledge9965	Cruise68:Station611	1993-09-07 15:37:00Z/15:42:00Z			23.4	24.5	51.78	3.57	Linestring (3.574 51.782, 3.578 51.784)
+Cruise68:Station612:EventSorbeSledge9966			Cruise68:Station612:EventSorbeSledge9966	Cruise68:Station612	1993-09-07 14:47:24Z/14:52:24Z			22.1	22.8	51.84	3.69	Linestring (3.699 51.844, 3.702 51.846)
+Cruise68:Station613:EventSorbeSledge9967			Cruise68:Station613:EventSorbeSledge9967	Cruise68:Station613	1993-09-07 14:11:10Z/14:16:10Z			15.8	16.4	51.86	3.74	Linestring (3.747 51.868, 3.749 51.87)
+Cruise68:Station614:EventSorbeSledge9968			Cruise68:Station614:EventSorbeSledge9968	Cruise68:Station614	1993-09-07 13:31:13Z/13:36:13Z			12.9	13.8	51.90	3.83	Linestring (3.839 51.903, 3.841 51.906)
+Cruise68:Station615:EventSorbeSledge9969			Cruise68:Station615:EventSorbeSledge9969	Cruise68:Station615	1993-09-08 13:40:30Z/13:45:30Z			37.7	40.3	51.73	2.57	Linestring (2.57 51.731, 2.572 51.741)
+Cruise68:Station616:EventSorbeSledge16394			Cruise68:Station616:EventSorbeSledge16394	Cruise68:Station616	1993-09-06 16:20:24Z/16:25:24Z			32.7	33.2	51.75	2.81	Linestring (2.818 51.752, 2.814 51.751)
+Cruise68:Station616:EventSorbeSledge9970			Cruise68:Station616:EventSorbeSledge9970	Cruise68:Station616	1993-09-06 17:04:10Z/17:09:10Z			33.7	35.9	51.75	2.81	Linestring (2.813 51.752, 2.81 51.751)
+Cruise68:Station617:EventSorbeSledge9998			Cruise68:Station617:EventSorbeSledge9998	Cruise68:Station617	1993-09-07 08:01:17Z/08:06:17Z			17.9	22.9	51.73	3.32	Linestring (3.329 51.733, 3.326 51.732)
+Cruise68:Station618:EventSorbeSledge10002			Cruise68:Station618:EventSorbeSledge10002	Cruise68:Station618	1993-09-07 09:38:00Z/09:48:00Z			16.4	17.1	51.79	3.42	Linestring (3.422 51.799, 3.419 51.797)
+Cruise68:Station619:EventSorbeSledge10003			Cruise68:Station619:EventSorbeSledge10003	Cruise68:Station619	1993-09-07 09:09:35Z/09:14:35Z			29.5	30	51.78	3.44	Linestring (3.443 51.783, 3.442 51.78)
+Cruise68:Station620:EventSorbeSledge10004			Cruise68:Station620:EventSorbeSledge10004	Cruise68:Station620	1993-09-07 11:13:42Z/11:18:42Z			21.2	21.8	51.91	3.71	Linestring (3.716 51.918, 3.721 51.918)
+Cruise68:Station622:EventSorbeSledge10018			Cruise68:Station622:EventSorbeSledge10018	Cruise68:Station622	1993-09-06 17:51:05Z/17:56:05Z			36.6	41.1	51.84	2.86	Linestring (2.865 51.841, 2.863 51.839)
+Cruise62:Station522:EventReineck9688			Cruise62:Station522:EventReineck9688	Cruise62:Station522								
+Cruise62:Station523:EventReineck9689			Cruise62:Station523:EventReineck9689	Cruise62:Station523								
+Cruise62:Station524:EventReineck9690			Cruise62:Station524:EventReineck9690	Cruise62:Station524								
+Cruise62:Station525:EventReineck9691			Cruise62:Station525:EventReineck9691	Cruise62:Station525								
+Cruise62:Station526:EventReineck9692			Cruise62:Station526:EventReineck9692	Cruise62:Station526								
+Cruise62:Station527:EventReineck9693			Cruise62:Station527:EventReineck9693	Cruise62:Station527								
+Cruise62:Station528:EventReineck9694			Cruise62:Station528:EventReineck9694	Cruise62:Station528								
+Cruise62:Station529:EventReineck9695			Cruise62:Station529:EventReineck9695	Cruise62:Station529								
+Cruise62:Station530:EventReineck9696			Cruise62:Station530:EventReineck9696	Cruise62:Station530								
+Cruise62:Station531:EventReineck9699			Cruise62:Station531:EventReineck9699	Cruise62:Station531								
+Cruise62:Station532:EventReineck9702			Cruise62:Station532:EventReineck9702	Cruise62:Station532								
+Cruise62:Station533:EventReineck9705			Cruise62:Station533:EventReineck9705	Cruise62:Station533								
+Cruise62:Station534:EventReineck9708			Cruise62:Station534:EventReineck9708	Cruise62:Station534								
+Cruise62:Station535:EventReineck9711			Cruise62:Station535:EventReineck9711	Cruise62:Station535								
+Cruise62:Station536:EventReineck9714			Cruise62:Station536:EventReineck9714	Cruise62:Station536								
+Cruise62:Station551:EventReineck9744			Cruise62:Station551:EventReineck9744	Cruise62:Station551								
+Cruise62:Station552:EventReineck9747			Cruise62:Station552:EventReineck9747	Cruise62:Station552								
+Cruise62:Station553:EventReineck9750			Cruise62:Station553:EventReineck9750	Cruise62:Station553								
+Cruise62:Station554:EventReineck9753			Cruise62:Station554:EventReineck9753	Cruise62:Station554								
+Cruise65:Station555:EventReineck9768			Cruise65:Station555:EventReineck9768	Cruise65:Station555								
+Cruise65:Station556:EventReineck9769			Cruise65:Station556:EventReineck9769	Cruise65:Station556								
+Cruise65:Station557:EventReineck9770			Cruise65:Station557:EventReineck9770	Cruise65:Station557								
+Cruise65:Station558:EventReineck9771			Cruise65:Station558:EventReineck9771	Cruise65:Station558								
+Cruise65:Station559:EventReineck9772			Cruise65:Station559:EventReineck9772	Cruise65:Station559								
+Cruise66:Station561:EventBowers-Connell9776			Cruise66:Station561:EventBowers-Connell9776	Cruise66:Station561								
+Cruise66:Station562:EventBowers-Connell9786			Cruise66:Station562:EventBowers-Connell9786	Cruise66:Station562								
+Cruise66:Station563:EventBowers-Connell9787			Cruise66:Station563:EventBowers-Connell9787	Cruise66:Station563								
+Cruise66:Station564:EventBowers-Connell9788			Cruise66:Station564:EventBowers-Connell9788	Cruise66:Station564								
+Cruise66:Station570:EventBowers-Connell9827			Cruise66:Station570:EventBowers-Connell9827	Cruise66:Station570								
+Cruise66:Station571:EventBowers-Connell9828			Cruise66:Station571:EventBowers-Connell9828	Cruise66:Station571								
+Cruise66:Station572:EventBowers-Connell9829			Cruise66:Station572:EventBowers-Connell9829	Cruise66:Station572								
+Cruise66:Station573:EventBowers-Connell9830			Cruise66:Station573:EventBowers-Connell9830	Cruise66:Station573								
+Cruise66:Station574:EventBowers-Connell9831			Cruise66:Station574:EventBowers-Connell9831	Cruise66:Station574								
+Cruise66:Station575:EventBowers-Connell9832			Cruise66:Station575:EventBowers-Connell9832	Cruise66:Station575								
+Cruise66:Station576:EventBowers-Connell9833			Cruise66:Station576:EventBowers-Connell9833	Cruise66:Station576								
+Cruise66:Station577:EventBowers-Connell9834			Cruise66:Station577:EventBowers-Connell9834	Cruise66:Station577								
+Cruise66:Station580:EventBowers-Connell9852			Cruise66:Station580:EventBowers-Connell9852	Cruise66:Station580								
+Cruise66:Station581:EventBowers-Connell9866			Cruise66:Station581:EventBowers-Connell9866	Cruise66:Station581								
+Cruise66:Station583:EventBowers-Connell9868			Cruise66:Station583:EventBowers-Connell9868	Cruise66:Station583								
+Cruise66:Station584:EventBowers-Connell9869			Cruise66:Station584:EventBowers-Connell9869	Cruise66:Station584								
+Cruise66:Station585:EventBowers-Connell9870			Cruise66:Station585:EventBowers-Connell9870	Cruise66:Station585								
+Cruise66:Station586:EventBowers-Connell9871			Cruise66:Station586:EventBowers-Connell9871	Cruise66:Station586								
+Cruise66:Station587:EventBowers-Connell9880			Cruise66:Station587:EventBowers-Connell9880	Cruise66:Station587								
+Cruise66:Station588:EventBowers-Connell9896			Cruise66:Station588:EventBowers-Connell9896	Cruise66:Station588								
+Cruise66:Station589:EventBowers-Connell9897			Cruise66:Station589:EventBowers-Connell9897	Cruise66:Station589								
+Cruise66:Station590:EventBowers-Connell9898			Cruise66:Station590:EventBowers-Connell9898	Cruise66:Station590								
+Cruise66:Station591:EventBowers-Connell9899			Cruise66:Station591:EventBowers-Connell9899	Cruise66:Station591								
+Cruise66:Station607:EventBowers-Connell9960			Cruise66:Station607:EventBowers-Connell9960	Cruise66:Station607								
+Cruise66:Station608:EventBowers-Connell9980			Cruise66:Station608:EventBowers-Connell9980	Cruise66:Station608								
+Cruise66:Station621:EventBowers-Connell10016			Cruise66:Station621:EventBowers-Connell10016	Cruise66:Station621								
+Cruise68:Station565:EventBowers-Connell9789			Cruise68:Station565:EventBowers-Connell9789	Cruise68:Station565								
+Cruise68:Station566:EventBowers-Connell9794			Cruise68:Station566:EventBowers-Connell9794	Cruise68:Station566								
+Cruise68:Station567:EventBowers-Connell9824			Cruise68:Station567:EventBowers-Connell9824	Cruise68:Station567								
+Cruise68:Station568:EventBowers-Connell9825			Cruise68:Station568:EventBowers-Connell9825	Cruise68:Station568								
+Cruise68:Station569:EventBowers-Connell9826			Cruise68:Station569:EventBowers-Connell9826	Cruise68:Station569								
+Cruise68:Station578:EventBowers-Connell9835			Cruise68:Station578:EventBowers-Connell9835	Cruise68:Station578								
+Cruise68:Station579:EventBowers-Connell9836			Cruise68:Station579:EventBowers-Connell9836	Cruise68:Station579								
+Cruise68:Station582:EventBowers-Connell9867			Cruise68:Station582:EventBowers-Connell9867	Cruise68:Station582								
+Cruise68:Station592:EventBowers-Connell9900			Cruise68:Station592:EventBowers-Connell9900	Cruise68:Station592								
+Cruise68:Station593:EventBowers-Connell9901			Cruise68:Station593:EventBowers-Connell9901	Cruise68:Station593								
+Cruise68:Station594:EventBowers-Connell9902			Cruise68:Station594:EventBowers-Connell9902	Cruise68:Station594								
+Cruise68:Station595:EventBowers-Connell9912			Cruise68:Station595:EventBowers-Connell9912	Cruise68:Station595								
+Cruise68:Station596:EventBowers-Connell9936			Cruise68:Station596:EventBowers-Connell9936	Cruise68:Station596								
+Cruise68:Station597:EventBowers-Connell9937			Cruise68:Station597:EventBowers-Connell9937	Cruise68:Station597								
+Cruise68:Station598:EventBowers-Connell9938			Cruise68:Station598:EventBowers-Connell9938	Cruise68:Station598								
+Cruise68:Station599:EventBowers-Connell9939			Cruise68:Station599:EventBowers-Connell9939	Cruise68:Station599								
+Cruise68:Station600:EventBowers-Connell9940			Cruise68:Station600:EventBowers-Connell9940	Cruise68:Station600								
+Cruise68:Station601:EventBowers-Connell9941			Cruise68:Station601:EventBowers-Connell9941	Cruise68:Station601								
+Cruise68:Station602:EventBowers-Connell9942			Cruise68:Station602:EventBowers-Connell9942	Cruise68:Station602								
+Cruise68:Station603:EventBowers-Connell9943			Cruise68:Station603:EventBowers-Connell9943	Cruise68:Station603								
+Cruise68:Station604:EventBowers-Connell9944			Cruise68:Station604:EventBowers-Connell9944	Cruise68:Station604								
+Cruise68:Station605:EventBowers-Connell9945			Cruise68:Station605:EventBowers-Connell9945	Cruise68:Station605								
+Cruise68:Station606:EventBowers-Connell9946			Cruise68:Station606:EventBowers-Connell9946	Cruise68:Station606								
+Cruise68:Station609:EventBowers-Connell9981			Cruise68:Station609:EventBowers-Connell9981	Cruise68:Station609								
+Cruise68:Station610:EventBowers-Connell9982			Cruise68:Station610:EventBowers-Connell9982	Cruise68:Station610								
+Cruise68:Station611:EventBowers-Connell9983			Cruise68:Station611:EventBowers-Connell9983	Cruise68:Station611								
+Cruise68:Station612:EventBowers-Connell9984			Cruise68:Station612:EventBowers-Connell9984	Cruise68:Station612								
+Cruise68:Station613:EventBowers-Connell9985			Cruise68:Station613:EventBowers-Connell9985	Cruise68:Station613								
+Cruise68:Station614:EventBowers-Connell9986			Cruise68:Station614:EventBowers-Connell9986	Cruise68:Station614								
+Cruise68:Station615:EventBowers-Connell9987			Cruise68:Station615:EventBowers-Connell9987	Cruise68:Station615								
+Cruise68:Station616:EventBowers-Connell9988			Cruise68:Station616:EventBowers-Connell9988	Cruise68:Station616								
+Cruise68:Station617:EventBowers-Connell10000			Cruise68:Station617:EventBowers-Connell10000	Cruise68:Station617								
+Cruise68:Station618:EventBowers-Connell10008			Cruise68:Station618:EventBowers-Connell10008	Cruise68:Station618								
+Cruise68:Station619:EventBowers-Connell10009			Cruise68:Station619:EventBowers-Connell10009	Cruise68:Station619								
+Cruise68:Station620:EventBowers-Connell10010			Cruise68:Station620:EventBowers-Connell10010	Cruise68:Station620								
+Cruise68:Station622:EventBowers-Connell10020			Cruise68:Station622:EventBowers-Connell10020	Cruise68:Station622								
