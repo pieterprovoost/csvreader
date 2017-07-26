@@ -21,13 +21,20 @@ class TestCSVReader(unittest.TestCase):
         self.assertTrue(records[21]["eventID"] == "Cruise68:Station622:EventSorbeSledge10018:Subsample15224")
         self.assertTrue(records[21]["scientificNameID"] == "urn:lsid:marinespecies.org:taxname:120144")
 
-    def testDev(self):
-        occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"])
-
-        print occurrence.indexes()
-
+    def testFieldNamesDict(self):
+        names = {"scientificName": 7}
+        occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"], fieldNames=names)
         records = occurrence.getLines("scientificName", "Neomysis integer")
-        print records
+        self.assertTrue(records[0]["scientificName"] == "Neomysis integer")
+        self.assertTrue(records[0]["col_6"] == "urn:lsid:marinespecies.org:taxname:120136")
+
+    def testFieldNamesArray(self):
+        names = ["id", "basisOfRecord", "occurrenceID", "sex", "lifeStage", "eventID"]
+        occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["eventID"], fieldNames=names)
+        records = occurrence.getLines("eventID", "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
+        self.assertTrue(records[0]["eventID"] == "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
+        self.assertTrue(records[0]["occurrenceID"] == "Ugenthyperbenthos51168")
+        self.assertTrue(records[0]["col_6"] == "Sagitta elegans")
 
 if __name__ == "__main__":
     unittest.main()
