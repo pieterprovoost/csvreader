@@ -21,7 +21,16 @@ class CSVReader(object):
 
         self._index()
 
-    def expandFieldNames(self, n, names):
+    def __str__(self):
+        lines = []
+        lines.append("-" * len(self._path))
+        lines.append(self._path)
+        lines.append("-" * len(self._path))
+        lines.append("Fields: " + ", ".join(self._headers))
+        lines.append("Indexed fields: " + ", ".join(self._indexFields))
+        return "\n".join(lines)
+
+    def _expandFieldNames(self, n, names):
         """Expand field names into list of the correct size."""
         result = []
         for i in xrange(n):
@@ -50,7 +59,7 @@ class CSVReader(object):
                 if pos == 0:
                     # Override headers if fieldNames is specified.
                     if self._fieldNames is not None:
-                        self._headers = self.expandFieldNames(len(values), self._fieldNames)
+                        self._headers = self._expandFieldNames(len(values), self._fieldNames)
                     else:
                         self._headers = values
                 else:

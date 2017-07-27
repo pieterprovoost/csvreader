@@ -28,7 +28,7 @@ class TestCSVReader(unittest.TestCase):
         self.assertTrue(records[0]["scientificName"] == "Neomysis integer")
         self.assertTrue(records[0]["col_6"] == "urn:lsid:marinespecies.org:taxname:120136")
 
-    def testFieldNamesArray(self):
+    def testFieldNamesList(self):
         names = ["id", "basisOfRecord", "occurrenceID", "sex", "lifeStage", "eventID"]
         occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["eventID"], fieldNames=names)
         records = occurrence.getLines("eventID", "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
