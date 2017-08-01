@@ -6,7 +6,7 @@ import sys
 
 class CSVReader(object):
 
-    def __init__(self, path, indexFields=["id"], delimiter="\t", quoteChar="\"", encoding="utf-8", fieldNames=None):
+    def __init__(self, path, indexFields=None, delimiter="\t", quoteChar="\"", encoding="utf-8", fieldNames=None):
 
         reload(sys)
         sys.setdefaultencoding("utf8")
@@ -45,9 +45,11 @@ class CSVReader(object):
 
     def _index(self):
         """Parse the CSV file and create index for the selected fields."""
-        for indexField in self._indexFields:
-            # Initialize the indexes.
-            self._indexes[indexField] = {}
+
+        if self._indexFields is not None:
+            for indexField in self._indexFields:
+                # Initialize the indexes.
+                self._indexes[indexField] = {}
 
         pos = 0
         with open(self._path, "rb") as csvfile:
@@ -62,7 +64,7 @@ class CSVReader(object):
                         self._headers = self._expandFieldNames(len(values), self._fieldNames)
                     else:
                         self._headers = values
-                else:
+                elif self._indexFields is not None:
                     for indexField in self._indexFields:
                         if indexField in self._headers:
                             # Get the index of the field to be indexed.

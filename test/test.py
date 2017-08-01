@@ -36,5 +36,10 @@ class TestCSVReader(unittest.TestCase):
         self.assertTrue(records[0]["occurrenceID"] == "Ugenthyperbenthos51168")
         self.assertTrue(records[0]["col_6"] == "Sagitta elegans")
 
+    def testNotIndexed(self):
+        occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")
+        with self.assertRaises(RuntimeError):
+            records = occurrence.getLines("eventID", "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
+
 if __name__ == "__main__":
     unittest.main()
