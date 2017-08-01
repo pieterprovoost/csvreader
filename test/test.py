@@ -41,5 +41,9 @@ class TestCSVReader(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             records = occurrence.getLines("eventID", "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
 
+    def testStr(self):
+        self.assertTrue(isinstance(str(CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"])), basestring))
+        self.assertTrue(isinstance(str(CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")), basestring))
+
 if __name__ == "__main__":
     unittest.main()

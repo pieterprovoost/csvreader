@@ -27,7 +27,7 @@ class CSVReader(object):
         lines.append(self._path)
         lines.append("-" * len(self._path))
         lines.append("Fields: " + ", ".join(self._headers))
-        lines.append("Indexed fields: " + ", ".join(self._indexFields))
+        lines.append("Indexed fields: " + (", ".join(self._indexFields) if self._indexFields is not None else "-"))
         return "\n".join(lines)
 
     def _expandFieldNames(self, n, names):
