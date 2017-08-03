@@ -46,38 +46,50 @@ class CSVReader(object):
     def _index(self):
         """Parse the CSV file and create index for the selected fields."""
 
+        # initialize the indexes
         if self._indexFields is not None:
             for indexField in self._indexFields:
-                # Initialize the indexes.
                 self._indexes[indexField] = {}
+
+        # initialize the row position list
+        self._rowPositions = []
 
         pos = 0
         with open(self._path, "rb") as csvfile:
             for line in csvfile:
-                # Parse the line using the csv module.
+                # parse the line using the csv module
                 values = list(csv.reader([line.rstrip()], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
-                # First line contains the headers.
+                # first line contains the headers
                 if pos == 0:
-                    # Override headers if fieldNames is specified.
+                    # override headers if fieldNames is specified
                     if self._fieldNames is not None:
                         self._headers = self._expandFieldNames(len(values), self._fieldNames)
                     else:
                         self._headers = values
-                elif self._indexFields is not None:
-                    for indexField in self._indexFields:
-                        if indexField in self._headers:
-                            # Get the index of the field to be indexed.
-                            i = self._headers.index(indexField)
-                            value = values[i]
-                            # Add the value to the index.
-                            if value not in self._indexes[indexField]:
-                                self._indexes[indexField][value] = [pos]
-                            else:
-                                self._indexes[indexField][value].append(pos)
+                else:
+                    # add position to row positions list
+                    self._rowPositions.append(pos)
+                    if self._indexFields is not None:
+                        for indexField in self._indexFields:
+                            if indexField in self._headers:
+                                # get the index of the field to be indexed
+                                i = self._headers.index(indexField)
+                                value = values[i]
+                                #  add the value to the index
+                                if value not in self._indexes[indexField]:
+                                    self._indexes[indexField][value] = [pos]
+                                else:
+                                    self._indexes[indexField][value].append(pos)
 
-                # Increment the position with the length of the line in bytes.
+                # increment the position with the length of the line in bytes
                 pos = pos + len(line.encode(self._encoding))
+
+    def _getLineByPosition(self, fileStream, pos):
+        fileStream.seek(pos, 0)
+        line = fileStream.readline().rstrip()
+        # parse line using the csv module
+        return list(csv.reader([line], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
     def getLines(self, field, value):
         if field not in self._indexes:
@@ -88,19 +100,33 @@ class CSVReader(object):
         positions = self._indexes[field][value]
         results = []
 
-        # Open file stream.
+        # open file stream
         fileStream = io.open(self._path, mode="r", encoding=self._encoding)
 
         for pos in positions:
-            fileStream.seek(pos, 0)
-            line = fileStream.readline().rstrip()
-            # Parse line using the csv module.
-            values = list(csv.reader([line], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
-            # Create dict from the headers and values.
+            values = self._getLineByPosition(fileStream, pos)
+            # create dict from the headers and values
             results.append(dict(zip(self._headers, values)))
 
         fileStream.close()
         return results
+
+    def __len__(self):
+        return len(self._rowPositions)
+
+    def __iter__(self):
+        self._position = 0
+        return self
+
+    def next(self):
+        if self._position >= len(self._rowPositions):
+            raise StopIteration
+        else:
+            fileStream = io.open(self._path, mode="r", encoding=self._encoding)
+            values = self._getLineByPosition(fileStream, self._rowPositions[self._position])
+            fileStream.close()
+            self._position += 1
+            return dict(zip(self._headers, values))
 
     def indexes(self):
         """Get the indexes."""

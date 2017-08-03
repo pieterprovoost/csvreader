@@ -17,5 +17,10 @@ occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", in
 print occurrence.indexes()
 records = occurrence.getLines("eventID", "Cruise68:Station593:EventSorbeSledge9887:Subsample16687")
 print records
-
 print occurrence
+
+print len(occurrence)
+
+for line in occurrence:
+    print line
+    break
