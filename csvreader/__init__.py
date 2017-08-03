@@ -91,6 +91,12 @@ class CSVReader(object):
         # parse line using the csv module
         return list(csv.reader([line], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
+    def getLine(self, index):
+        fileStream = io.open(self._path, mode="r", encoding=self._encoding)
+        values = self._getLineByPosition(fileStream, self._rowPositions[index])
+        fileStream.close()
+        return dict(zip(self._headers, values))
+
     def getLines(self, field, value):
         if field not in self._indexes:
             raise RuntimeError("Field " + field + " was not indexed")

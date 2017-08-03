@@ -45,6 +45,13 @@ class TestCSVReader(unittest.TestCase):
         self.assertTrue(isinstance(str(CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"])), basestring))
         self.assertTrue(isinstance(str(CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")), basestring))
 
+    def testGetLine(self):
+        occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")
+        record = occurrence.getLine(0)
+        self.assertTrue(record["occurrenceID"] == "Ugenthyperbenthos45979")
+        record = occurrence.getLine(5)
+        self.assertTrue(record["occurrenceID"] == "Ugenthyperbenthos95454")
+
     def testIterator(self):
         occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")
         for line in occurrence:
