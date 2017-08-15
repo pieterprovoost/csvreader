@@ -101,10 +101,9 @@ class CSVReader(object):
         if field not in self._indexes:
             raise RuntimeError("Field " + field + " was not indexed")
         if value not in self._indexes[field]:
-            return []
+            return
         """Get all lines for the given field and value as dicts."""
         positions = self._indexes[field][value]
-        results = []
 
         # open file stream
         fileStream = io.open(self._path, mode="r", encoding=self._encoding)
@@ -112,10 +111,9 @@ class CSVReader(object):
         for pos in positions:
             values = self._getLineByPosition(fileStream, pos)
             # create dict from the headers and values
-            results.append(dict(zip(self._headers, values)))
+            yield dict(zip(self._headers, values))
 
         fileStream.close()
-        return results
 
     def __len__(self):
         return len(self._rowPositions)
