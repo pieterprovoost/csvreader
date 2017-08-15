@@ -1,9 +1,9 @@
 # csvreader
 
-Index and query large CSV files. The module handles multi-gigabyte data files with a minimal memory footprint and provides very fast random access.
+Indexes and queries large CSV files.
 
 ## Usage
-### Reading and indexing
+### Indexing
 
 ```python
 from csvreader import CSVReader
@@ -22,8 +22,8 @@ print occurrence.indexes()
 ### Querying
 
 ```python
-records = occurrence.getLines("scientificName", "Neomysis integer")
-print records
+for record in occurrence.getLines("scientificName", "Neomysis integer"):
+    print record
 ```
 
 ```json
