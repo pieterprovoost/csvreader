@@ -87,7 +87,7 @@ class CSVReader(object):
 
     def _getLineByPosition(self, fileStream, pos):
         fileStream.seek(pos, 0)
-        line = fileStream.readline().rstrip()
+        line = fileStream.readline().rstrip('\r\n ')
         # parse line using the csv module
         return list(csv.reader([line], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
