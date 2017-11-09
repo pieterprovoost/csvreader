@@ -1,0 +1,178 @@
+id	modified	eventID	parentEventID	eventDate	habitat	locationID	locality	minimumDepthInMeters	maximumDepthInMeters	decimalLatitude	decimalLongitude	coordinateUncertaintyInMeters	footprintWKT
+cruiseCD179		cruiseCD179											
+cruiseCD179:stationCD56804		cruiseCD179:stationCD56804	cruiseCD179		submarine canyon	MRGID4870	Setubal						
+cruiseCD179:stationCD56804:deploym6		cruiseCD179:stationCD56804:deploym6	cruiseCD179:stationCD56804	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8		cruiseCD179:stationCD56804:deploym6:core8	cruiseCD179:stationCD56804:deploym6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8:slice0-1		cruiseCD179:stationCD56804:deploym6:core8:slice0-1	cruiseCD179:stationCD56804:deploym6:core8	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8:slice1-2		cruiseCD179:stationCD56804:deploym6:core8:slice1-2	cruiseCD179:stationCD56804:deploym6:core8	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8:slice2-3		cruiseCD179:stationCD56804:deploym6:core8:slice2-3	cruiseCD179:stationCD56804:deploym6:core8	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8:slice3-4		cruiseCD179:stationCD56804:deploym6:core8:slice3-4	cruiseCD179:stationCD56804:deploym6:core8	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56804:deploym6:core8:slice4-5		cruiseCD179:stationCD56804:deploym6:core8:slice4-5	cruiseCD179:stationCD56804:deploym6:core8	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1543	-9.6157	100	
+cruiseCD179:stationCD56806		cruiseCD179:stationCD56806	cruiseCD179		submarine canyon	MRGID4870	Setubal						
+cruiseCD179:stationCD56806:deploym1		cruiseCD179:stationCD56806:deploym1	cruiseCD179:stationCD56806	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6		cruiseCD179:stationCD56806:deploym1:core6	cruiseCD179:stationCD56806:deploym1	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6:slice0-1		cruiseCD179:stationCD56806:deploym1:core6:slice0-1	cruiseCD179:stationCD56806:deploym1:core6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6:slice1-2		cruiseCD179:stationCD56806:deploym1:core6:slice1-2	cruiseCD179:stationCD56806:deploym1:core6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6:slice2-3		cruiseCD179:stationCD56806:deploym1:core6:slice2-3	cruiseCD179:stationCD56806:deploym1:core6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6:slice3-4		cruiseCD179:stationCD56806:deploym1:core6:slice3-4	cruiseCD179:stationCD56806:deploym1:core6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56806:deploym1:core6:slice4-5		cruiseCD179:stationCD56806:deploym1:core6:slice4-5	cruiseCD179:stationCD56806:deploym1:core6	2006-04-21	submarine canyon	MRGID4870	Setubal	3275	3275	38.1548	-9.616	100	
+cruiseCD179:stationCD56821		cruiseCD179:stationCD56821	cruiseCD179		submarine canyon	MRGID34657	Cascais						
+cruiseCD179:stationCD56821:deploym2		cruiseCD179:stationCD56821:deploym2	cruiseCD179:stationCD56821	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2		cruiseCD179:stationCD56821:deploym2:core2	cruiseCD179:stationCD56821:deploym2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2:slice0-1		cruiseCD179:stationCD56821:deploym2:core2:slice0-1	cruiseCD179:stationCD56821:deploym2:core2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2:slice1-2		cruiseCD179:stationCD56821:deploym2:core2:slice1-2	cruiseCD179:stationCD56821:deploym2:core2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2:slice2-3		cruiseCD179:stationCD56821:deploym2:core2:slice2-3	cruiseCD179:stationCD56821:deploym2:core2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2:slice3-4		cruiseCD179:stationCD56821:deploym2:core2:slice3-4	cruiseCD179:stationCD56821:deploym2:core2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56821:deploym2:core2:slice4-5		cruiseCD179:stationCD56821:deploym2:core2:slice4-5	cruiseCD179:stationCD56821:deploym2:core2	2006-04-27	submarine canyon	MRGID34657	Cascais	3214	3214	38.2995	-9.7815	100	
+cruiseCD179:stationCD56836		cruiseCD179:stationCD56836	cruiseCD179		submarine canyon	MRGID34657	Cascais						
+cruiseCD179:stationCD56836:deploym1		cruiseCD179:stationCD56836:deploym1	cruiseCD179:stationCD56836	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1		cruiseCD179:stationCD56836:deploym1:core1	cruiseCD179:stationCD56836:deploym1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1:slice0-1		cruiseCD179:stationCD56836:deploym1:core1:slice0-1	cruiseCD179:stationCD56836:deploym1:core1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1:slice1-2		cruiseCD179:stationCD56836:deploym1:core1:slice1-2	cruiseCD179:stationCD56836:deploym1:core1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1:slice2-3		cruiseCD179:stationCD56836:deploym1:core1:slice2-3	cruiseCD179:stationCD56836:deploym1:core1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1:slice3-4		cruiseCD179:stationCD56836:deploym1:core1:slice3-4	cruiseCD179:stationCD56836:deploym1:core1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56836:deploym1:core1:slice4-5		cruiseCD179:stationCD56836:deploym1:core1:slice4-5	cruiseCD179:stationCD56836:deploym1:core1	2006-05-01	submarine canyon	MRGID34657	Cascais	3209	3209	38.2998	-9.8327	100	
+cruiseCD179:stationCD56837		cruiseCD179:stationCD56837	cruiseCD179		submarine canyon	MRGID34657	Cascais						
+cruiseCD179:stationCD56837:deploym5		cruiseCD179:stationCD56837:deploym5	cruiseCD179:stationCD56837	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8		cruiseCD179:stationCD56837:deploym5:core8	cruiseCD179:stationCD56837:deploym5	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8:slice0-1		cruiseCD179:stationCD56837:deploym5:core8:slice0-1	cruiseCD179:stationCD56837:deploym5:core8	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8:slice1-2		cruiseCD179:stationCD56837:deploym5:core8:slice1-2	cruiseCD179:stationCD56837:deploym5:core8	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8:slice2-3		cruiseCD179:stationCD56837:deploym5:core8:slice2-3	cruiseCD179:stationCD56837:deploym5:core8	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8:slice3-4		cruiseCD179:stationCD56837:deploym5:core8:slice3-4	cruiseCD179:stationCD56837:deploym5:core8	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym5:core8:slice4-5		cruiseCD179:stationCD56837:deploym5:core8:slice4-5	cruiseCD179:stationCD56837:deploym5:core8	2006-05-02	submarine canyon	MRGID34657	Cascais	4241	4241	38.375	-9.8913	100	
+cruiseCD179:stationCD56837:deploym7		cruiseCD179:stationCD56837:deploym7	cruiseCD179:stationCD56837	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2		cruiseCD179:stationCD56837:deploym7:core2	cruiseCD179:stationCD56837:deploym7	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2:slice0-1		cruiseCD179:stationCD56837:deploym7:core2:slice0-1	cruiseCD179:stationCD56837:deploym7:core2	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2:slice1-2		cruiseCD179:stationCD56837:deploym7:core2:slice1-2	cruiseCD179:stationCD56837:deploym7:core2	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2:slice2-3		cruiseCD179:stationCD56837:deploym7:core2:slice2-3	cruiseCD179:stationCD56837:deploym7:core2	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2:slice3-4		cruiseCD179:stationCD56837:deploym7:core2:slice3-4	cruiseCD179:stationCD56837:deploym7:core2	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym7:core2:slice4-5		cruiseCD179:stationCD56837:deploym7:core2:slice4-5	cruiseCD179:stationCD56837:deploym7:core2	2006-05-03	submarine canyon	MRGID34657	Cascais	4243	4243	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8		cruiseCD179:stationCD56837:deploym8	cruiseCD179:stationCD56837	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5		cruiseCD179:stationCD56837:deploym8:core5	cruiseCD179:stationCD56837:deploym8	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5:slice0-1		cruiseCD179:stationCD56837:deploym8:core5:slice0-1	cruiseCD179:stationCD56837:deploym8:core5	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5:slice1-2		cruiseCD179:stationCD56837:deploym8:core5:slice1-2	cruiseCD179:stationCD56837:deploym8:core5	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5:slice2-3		cruiseCD179:stationCD56837:deploym8:core5:slice2-3	cruiseCD179:stationCD56837:deploym8:core5	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5:slice3-4		cruiseCD179:stationCD56837:deploym8:core5:slice3-4	cruiseCD179:stationCD56837:deploym8:core5	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56837:deploym8:core5:slice4-5		cruiseCD179:stationCD56837:deploym8:core5:slice4-5	cruiseCD179:stationCD56837:deploym8:core5	2006-05-03	submarine canyon	MRGID34657	Cascais	4244	4244	38.3748	-9.892	100	
+cruiseCD179:stationCD56838		cruiseCD179:stationCD56838	cruiseCD179		submarine canyon	MRGID4870	Setubal						
+cruiseCD179:stationCD56838:deploym3		cruiseCD179:stationCD56838:deploym3	cruiseCD179:stationCD56838	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11		cruiseCD179:stationCD56838:deploym3:core11	cruiseCD179:stationCD56838:deploym3	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11:slice0-1		cruiseCD179:stationCD56838:deploym3:core11:slice0-1	cruiseCD179:stationCD56838:deploym3:core11	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11:slice1-2		cruiseCD179:stationCD56838:deploym3:core11:slice1-2	cruiseCD179:stationCD56838:deploym3:core11	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11:slice2-3		cruiseCD179:stationCD56838:deploym3:core11:slice2-3	cruiseCD179:stationCD56838:deploym3:core11	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11:slice3-4		cruiseCD179:stationCD56838:deploym3:core11:slice3-4	cruiseCD179:stationCD56838:deploym3:core11	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym3:core11:slice4-5		cruiseCD179:stationCD56838:deploym3:core11:slice4-5	cruiseCD179:stationCD56838:deploym3:core11	2006-05-04	submarine canyon	MRGID4870	Setubal	4482	4482	38.1082	-9.999	100	
+cruiseCD179:stationCD56838:deploym4		cruiseCD179:stationCD56838:deploym4	cruiseCD179:stationCD56838	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8		cruiseCD179:stationCD56838:deploym4:core8	cruiseCD179:stationCD56838:deploym4	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8:slice0-1		cruiseCD179:stationCD56838:deploym4:core8:slice0-1	cruiseCD179:stationCD56838:deploym4:core8	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8:slice1-2		cruiseCD179:stationCD56838:deploym4:core8:slice1-2	cruiseCD179:stationCD56838:deploym4:core8	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8:slice2-3		cruiseCD179:stationCD56838:deploym4:core8:slice2-3	cruiseCD179:stationCD56838:deploym4:core8	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8:slice3-4		cruiseCD179:stationCD56838:deploym4:core8:slice3-4	cruiseCD179:stationCD56838:deploym4:core8	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56838:deploym4:core8:slice4-5		cruiseCD179:stationCD56838:deploym4:core8:slice4-5	cruiseCD179:stationCD56838:deploym4:core8	2006-05-04	submarine canyon	MRGID4870	Setubal	4485	4485	38.1087	-9.9998	100	
+cruiseCD179:stationCD56842		cruiseCD179:stationCD56842	cruiseCD179		submarine canyon	MRGID4870	Setubal						
+cruiseCD179:stationCD56842:deploym1		cruiseCD179:stationCD56842:deploym1	cruiseCD179:stationCD56842	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7		cruiseCD179:stationCD56842:deploym1:core7	cruiseCD179:stationCD56842:deploym1	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7:slice0-1		cruiseCD179:stationCD56842:deploym1:core7:slice0-1	cruiseCD179:stationCD56842:deploym1:core7	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7:slice1-2		cruiseCD179:stationCD56842:deploym1:core7:slice1-2	cruiseCD179:stationCD56842:deploym1:core7	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7:slice2-3		cruiseCD179:stationCD56842:deploym1:core7:slice2-3	cruiseCD179:stationCD56842:deploym1:core7	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7:slice3-4		cruiseCD179:stationCD56842:deploym1:core7:slice3-4	cruiseCD179:stationCD56842:deploym1:core7	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseCD179:stationCD56842:deploym1:core7:slice4-5		cruiseCD179:stationCD56842:deploym1:core7:slice4-5	cruiseCD179:stationCD56842:deploym1:core7	2006-05-05	submarine canyon	MRGID4870	Setubal	4482	4482	38.1075	-9.999	100	
+cruiseD297		cruiseD297											
+cruiseD297:stationD15735		cruiseD297:stationD15735	cruiseD297		submarine canyon	MRGID4882	Nazare						
+cruiseD297:stationD15735:deploym1		cruiseD297:stationD15735:deploym1	cruiseD297:stationD15735	2005-08-02	submarine canyon	MRGID4882	Nazare	4340	4340	39.5833	-10.3194	100	
+cruiseD297:stationD15735:deploym1:coreA		cruiseD297:stationD15735:deploym1:coreA	cruiseD297:stationD15735:deploym1	2005-08-02	submarine canyon	MRGID4882	Nazare	4340	4340	39.5833	-10.3194	100	
+cruiseD297:stationD15735:deploym1:coreA:slice0-1		cruiseD297:stationD15735:deploym1:coreA:slice0-1	cruiseD297:stationD15735:deploym1:coreA	2005-08-02	submarine canyon	MRGID4882	Nazare	4340	4340	39.5833	-10.3194	100	
+cruiseD297:stationD15737		cruiseD297:stationD15737	cruiseD297		submarine canyon	MRGID4882	Nazare						
+cruiseD297:stationD15737:deploym1		cruiseD297:stationD15737:deploym1	cruiseD297:stationD15737	2005-08-02	submarine canyon	MRGID4882	Nazare	3453	3453	39.5	-9.9371	100	
+cruiseD297:stationD15737:deploym1:coreA		cruiseD297:stationD15737:deploym1:coreA	cruiseD297:stationD15737:deploym1	2005-08-02	submarine canyon	MRGID4882	Nazare	3453	3453	39.5	-9.9371	100	
+cruiseD297:stationD15737:deploym1:coreA:slice0-1		cruiseD297:stationD15737:deploym1:coreA:slice0-1	cruiseD297:stationD15737:deploym1:coreA	2005-08-02	submarine canyon	MRGID4882	Nazare	3453	3453	39.5	-9.9371	100	
+cruiseD297:stationD15753		cruiseD297:stationD15753	cruiseD297		submarine canyon	MRGID4882	Nazare						
+cruiseD297:stationD15753:deploym1		cruiseD297:stationD15753:deploym1	cruiseD297:stationD15753	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA		cruiseD297:stationD15753:deploym1:coreA	cruiseD297:stationD15753:deploym1	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA:slice0-1		cruiseD297:stationD15753:deploym1:coreA:slice0-1	cruiseD297:stationD15753:deploym1:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA:slice1-2		cruiseD297:stationD15753:deploym1:coreA:slice1-2	cruiseD297:stationD15753:deploym1:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA:slice2-3		cruiseD297:stationD15753:deploym1:coreA:slice2-3	cruiseD297:stationD15753:deploym1:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA:slice3-4		cruiseD297:stationD15753:deploym1:coreA:slice3-4	cruiseD297:stationD15753:deploym1:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym1:coreA:slice4-5		cruiseD297:stationD15753:deploym1:coreA:slice4-5	cruiseD297:stationD15753:deploym1:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3528	3528	39.5004	-9.9365	100	
+cruiseD297:stationD15753:deploym2		cruiseD297:stationD15753:deploym2	cruiseD297:stationD15753	2005-08-08	submarine canyon	MRGID4882	Nazare	3425	3425	39.4998	-9.937	100	
+cruiseD297:stationD15753:deploym2:coreA		cruiseD297:stationD15753:deploym2:coreA	cruiseD297:stationD15753:deploym2	2005-08-08	submarine canyon	MRGID4882	Nazare	3425	3425	39.4998	-9.937	100	
+cruiseD297:stationD15753:deploym2:coreA:slice0-1		cruiseD297:stationD15753:deploym2:coreA:slice0-1	cruiseD297:stationD15753:deploym2:coreA	2005-08-08	submarine canyon	MRGID4882	Nazare	3425	3425	39.4998	-9.937	100	
+cruiseD297:stationD15758		cruiseD297:stationD15758	cruiseD297		submarine canyon	MRGID4882	Nazare						
+cruiseD297:stationD15758:deploym3		cruiseD297:stationD15758:deploym3	cruiseD297:stationD15758	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA		cruiseD297:stationD15758:deploym3:coreA	cruiseD297:stationD15758:deploym3	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA:slice0-1		cruiseD297:stationD15758:deploym3:coreA:slice0-1	cruiseD297:stationD15758:deploym3:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA:slice1-2		cruiseD297:stationD15758:deploym3:coreA:slice1-2	cruiseD297:stationD15758:deploym3:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA:slice2-3		cruiseD297:stationD15758:deploym3:coreA:slice2-3	cruiseD297:stationD15758:deploym3:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA:slice3-4		cruiseD297:stationD15758:deploym3:coreA:slice3-4	cruiseD297:stationD15758:deploym3:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym3:coreA:slice4-5		cruiseD297:stationD15758:deploym3:coreA:slice4-5	cruiseD297:stationD15758:deploym3:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4435	4435	39.583	-10.3174	100	
+cruiseD297:stationD15758:deploym4		cruiseD297:stationD15758:deploym4	cruiseD297:stationD15758	2005-08-09	submarine canyon	MRGID4882	Nazare	4335	4335	39.5835	-10.3167	100	
+cruiseD297:stationD15758:deploym4:coreA		cruiseD297:stationD15758:deploym4:coreA	cruiseD297:stationD15758:deploym4	2005-08-09	submarine canyon	MRGID4882	Nazare	4335	4335	39.5835	-10.3167	100	
+cruiseD297:stationD15758:deploym4:coreA:slice0-1		cruiseD297:stationD15758:deploym4:coreA:slice0-1	cruiseD297:stationD15758:deploym4:coreA	2005-08-09	submarine canyon	MRGID4882	Nazare	4335	4335	39.5835	-10.3167	100	
+cruiseD297:stationD15770		cruiseD297:stationD15770	cruiseD297		continental slope	MRGID39858	Slope						
+cruiseD297:stationD15770:deploym1		cruiseD297:stationD15770:deploym1	cruiseD297:stationD15770	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA		cruiseD297:stationD15770:deploym1:coreA	cruiseD297:stationD15770:deploym1	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA:slice0-1		cruiseD297:stationD15770:deploym1:coreA:slice0-1	cruiseD297:stationD15770:deploym1:coreA	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA:slice1-2		cruiseD297:stationD15770:deploym1:coreA:slice1-2	cruiseD297:stationD15770:deploym1:coreA	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA:slice2-3		cruiseD297:stationD15770:deploym1:coreA:slice2-3	cruiseD297:stationD15770:deploym1:coreA	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA:slice3-4		cruiseD297:stationD15770:deploym1:coreA:slice3-4	cruiseD297:stationD15770:deploym1:coreA	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym1:coreA:slice4-5		cruiseD297:stationD15770:deploym1:coreA:slice4-5	cruiseD297:stationD15770:deploym1:coreA	2005-08-14	continental slope	MRGID39858	Slope	4277	4277	40.07327	-10.3653	100	
+cruiseD297:stationD15770:deploym2		cruiseD297:stationD15770:deploym2	cruiseD297:stationD15770	2005-08-14	continental slope	MRGID39858	Slope	4275	4275	40.07317	-10.365	100	
+cruiseD297:stationD15770:deploym2:coreA		cruiseD297:stationD15770:deploym2:coreA	cruiseD297:stationD15770:deploym2	2005-08-14	continental slope	MRGID39858	Slope	4275	4275	40.07317	-10.365	100	
+cruiseD297:stationD15770:deploym2:coreA:slice0-1		cruiseD297:stationD15770:deploym2:coreA:slice0-1	cruiseD297:stationD15770:deploym2:coreA	2005-08-14	continental slope	MRGID39858	Slope	4275	4275	40.07317	-10.365	100	
+cruiseD297:stationD15770:deploym3		cruiseD297:stationD15770:deploym3	cruiseD297:stationD15770	2005-08-15	continental slope	MRGID39858	Slope	4275	4275	40.07333	-10.3657	100	
+cruiseD297:stationD15770:deploym3:coreA		cruiseD297:stationD15770:deploym3:coreA	cruiseD297:stationD15770:deploym3	2005-08-15	continental slope	MRGID39858	Slope	4275	4275	40.07333	-10.3657	100	
+cruiseD297:stationD15770:deploym3:coreA:slice0-1		cruiseD297:stationD15770:deploym3:coreA:slice0-1	cruiseD297:stationD15770:deploym3:coreA	2005-08-15	continental slope	MRGID39858	Slope	4275	4275	40.07333	-10.3657	100	
+cruiseD297:stationD15771		cruiseD297:stationD15771	cruiseD297		continental slope	MRGID39859	Slope						
+cruiseD297:stationD15771:deploym1		cruiseD297:stationD15771:deploym1	cruiseD297:stationD15771	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA		cruiseD297:stationD15771:deploym1:coreA	cruiseD297:stationD15771:deploym1	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA:slice0-1		cruiseD297:stationD15771:deploym1:coreA:slice0-1	cruiseD297:stationD15771:deploym1:coreA	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA:slice1-2		cruiseD297:stationD15771:deploym1:coreA:slice1-2	cruiseD297:stationD15771:deploym1:coreA	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA:slice2-3		cruiseD297:stationD15771:deploym1:coreA:slice2-3	cruiseD297:stationD15771:deploym1:coreA	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA:slice3-4		cruiseD297:stationD15771:deploym1:coreA:slice3-4	cruiseD297:stationD15771:deploym1:coreA	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreA:slice4-5		cruiseD297:stationD15771:deploym1:coreA:slice4-5	cruiseD297:stationD15771:deploym1:coreA	2005-08-15	continental slope	MRGID39859	Slope	3400	3400	40.595	-10.3673	100	
+cruiseD297:stationD15771:deploym1:coreB		cruiseD297:stationD15771:deploym1:coreB	cruiseD297:stationD15771:deploym1	2005-08-15	continental slope			3401	3401	40.5955	-10.368	100	
+cruiseD297:stationD15771:deploym1:coreB:slice0-1		cruiseD297:stationD15771:deploym1:coreB:slice0-1	cruiseD297:stationD15771:deploym1:coreB	2005-08-15	continental slope	MRGID39859	Slope	3401	3401	40.5955	-10.368	100	
+cruiseD297:stationD15771:deploym3		cruiseD297:stationD15771:deploym3	cruiseD297:stationD15771	2005-08-15	continental slope			3403	3403	40.59567	-10.3682	100	
+cruiseD297:stationD15771:deploym3:coreA		cruiseD297:stationD15771:deploym3:coreA	cruiseD297:stationD15771:deploym3	2005-08-15	continental slope			3403	3403	40.59567	-10.3682	100	
+cruiseD297:stationD15771:deploym3:coreA:slice0-1		cruiseD297:stationD15771:deploym3:coreA:slice0-1	cruiseD297:stationD15771:deploym3:coreA	2005-08-15	continental slope	MRGID39859	Slope	3403	3403	40.59567	-10.3682	100	
+cruiseJC10		cruiseJC10											
+cruiseJC10:station95-PUC02		cruiseJC10:station95-PUC02	cruiseJC10	2007-06-12	submarine canyon	MRGID4882	Nazare						
+cruiseJC10:station95-PUC02:deploym48		cruiseJC10:station95-PUC02:deploym48	cruiseJC10:station95-PUC02	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2		cruiseJC10:station95-PUC02:deploym48:core2	cruiseJC10:station95-PUC02:deploym48	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2:slice0-1		cruiseJC10:station95-PUC02:deploym48:core2:slice0-1	cruiseJC10:station95-PUC02:deploym48:core2	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2:slice1-2		cruiseJC10:station95-PUC02:deploym48:core2:slice1-2	cruiseJC10:station95-PUC02:deploym48:core2	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2:slice2-3		cruiseJC10:station95-PUC02:deploym48:core2:slice2-3	cruiseJC10:station95-PUC02:deploym48:core2	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2:slice3-4		cruiseJC10:station95-PUC02:deploym48:core2:slice3-4	cruiseJC10:station95-PUC02:deploym48:core2	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC02:deploym48:core2:slice4-5		cruiseJC10:station95-PUC02:deploym48:core2:slice4-5	cruiseJC10:station95-PUC02:deploym48:core2	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.9233333	-9.93675	100	
+cruiseJC10:station95-PUC03		cruiseJC10:station95-PUC03	cruiseJC10	2007-06-12	submarine canyon	MRGID4882	Nazare						
+cruiseJC10:station95-PUC03:deploym48		cruiseJC10:station95-PUC03:deploym48	cruiseJC10:station95-PUC03	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3		cruiseJC10:station95-PUC03:deploym48:core3	cruiseJC10:station95-PUC03:deploym48	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3:slice0-1		cruiseJC10:station95-PUC03:deploym48:core3:slice0-1	cruiseJC10:station95-PUC03:deploym48:core3	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3:slice1-2		cruiseJC10:station95-PUC03:deploym48:core3:slice1-2	cruiseJC10:station95-PUC03:deploym48:core3	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3:slice2-3		cruiseJC10:station95-PUC03:deploym48:core3:slice2-3	cruiseJC10:station95-PUC03:deploym48:core3	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3:slice3-4		cruiseJC10:station95-PUC03:deploym48:core3:slice3-4	cruiseJC10:station95-PUC03:deploym48:core3	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC03:deploym48:core3:slice4-5		cruiseJC10:station95-PUC03:deploym48:core3:slice4-5	cruiseJC10:station95-PUC03:deploym48:core3	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.936633333	100	
+cruiseJC10:station95-PUC09		cruiseJC10:station95-PUC09	cruiseJC10	2007-06-12	submarine canyon	MRGID4882	Nazare						
+cruiseJC10:station95-PUC09:deploym48		cruiseJC10:station95-PUC09:deploym48	cruiseJC10:station95-PUC09	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9		cruiseJC10:station95-PUC09:deploym48:core9	cruiseJC10:station95-PUC09:deploym48	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9:slice0-1		cruiseJC10:station95-PUC09:deploym48:core9:slice0-1	cruiseJC10:station95-PUC09:deploym48:core9	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9:slice1-2		cruiseJC10:station95-PUC09:deploym48:core9:slice1-2	cruiseJC10:station95-PUC09:deploym48:core9	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9:slice2-3		cruiseJC10:station95-PUC09:deploym48:core9:slice2-3	cruiseJC10:station95-PUC09:deploym48:core9	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9:slice3-4		cruiseJC10:station95-PUC09:deploym48:core9:slice3-4	cruiseJC10:station95-PUC09:deploym48:core9	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseJC10:station95-PUC09:deploym48:core9:slice4-5		cruiseJC10:station95-PUC09:deploym48:core9:slice4-5	cruiseJC10:station95-PUC09:deploym48:core9	2007-06-12	submarine canyon	MRGID4882	Nazare	3512	3512	39.92333	-9.93665	100	
+cruiseCD179:stationCD56810		cruiseCD179:stationCD56810	cruiseCD179	2006-04-23	submarine canyon	MRGID4870	Setubal						
+cruiseCD179:stationCD56810:deploym1		cruiseCD179:stationCD56810:deploym1	cruiseCD179:stationCD56810	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2		cruiseCD179:stationCD56810:deploym1:core2	cruiseCD179:stationCD56810:deploym1	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2:slice0-1		cruiseCD179:stationCD56810:deploym1:core2:slice0-1	cruiseCD179:stationCD56810:deploym1:core2	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2:slice1-2		cruiseCD179:stationCD56810:deploym1:core2:slice1-2	cruiseCD179:stationCD56810:deploym1:core2	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2:slice2-3		cruiseCD179:stationCD56810:deploym1:core2:slice2-3	cruiseCD179:stationCD56810:deploym1:core2	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2:slice3-4		cruiseCD179:stationCD56810:deploym1:core2:slice3-4	cruiseCD179:stationCD56810:deploym1:core2	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56810:deploym1:core2:slice4-5		cruiseCD179:stationCD56810:deploym1:core2:slice4-5	cruiseCD179:stationCD56810:deploym1:core2	2006-04-23	submarine canyon	MRGID4870	Setubal	3224	3224	38.1537	-9.617	100	
+cruiseCD179:stationCD56823		cruiseCD179:stationCD56823	cruiseCD179	2006-04-27	submarine canyon	MRGID34657	Cascais						
+cruiseCD179:stationCD56823:deploym2		cruiseCD179:stationCD56823:deploym2	cruiseCD179:stationCD56823	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11		cruiseCD179:stationCD56823:deploym2:core11	cruiseCD179:stationCD56823:deploym2	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11:slice0-1		cruiseCD179:stationCD56823:deploym2:core11:slice0-1	cruiseCD179:stationCD56823:deploym2:core11	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11:slice1-2		cruiseCD179:stationCD56823:deploym2:core11:slice1-2	cruiseCD179:stationCD56823:deploym2:core11	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11:slice2-3		cruiseCD179:stationCD56823:deploym2:core11:slice2-3	cruiseCD179:stationCD56823:deploym2:core11	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11:slice3-4		cruiseCD179:stationCD56823:deploym2:core11:slice3-4	cruiseCD179:stationCD56823:deploym2:core11	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	
+cruiseCD179:stationCD56823:deploym2:core11:slice4-5		cruiseCD179:stationCD56823:deploym2:core11:slice4-5	cruiseCD179:stationCD56823:deploym2:core11	2006-04-27	submarine canyon	MRGID34657	Cascais	3218	3218	38.3002	-9.7837	100	

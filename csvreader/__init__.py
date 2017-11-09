@@ -58,7 +58,7 @@ class CSVReader(object):
         with open(self._path, "rb") as csvfile:
             for line in csvfile:
                 # parse the line using the csv module
-                values = list(csv.reader([line.rstrip()], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
+                values = list(csv.reader([line.rstrip("\r\n ")], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
                 # first line contains the headers
                 if pos == 0:
