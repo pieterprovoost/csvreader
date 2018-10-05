@@ -6,7 +6,7 @@ import sys
 
 class CSVReader(object):
 
-    def __init__(self, path, indexFields=None, delimiter="\t", quoteChar="\"", encoding="utf-8", fieldNames=None):
+    def __init__(self, path, indexFields=None, delimiter="\t", quoteChar="\"", encoding="utf-8", fieldNames=None, skipBlank=True):
 
         reload(sys)
         sys.setdefaultencoding("utf8")
@@ -17,6 +17,7 @@ class CSVReader(object):
         self._quoteChar = quoteChar
         self._encoding = encoding
         self._fieldNames = fieldNames
+        self._skipBlank = skipBlank
         self._indexes = {}
 
         self._index()
@@ -57,30 +58,33 @@ class CSVReader(object):
         pos = 0
         with open(self._path, "rb") as csvfile:
             for line in csvfile:
-                # parse the line using the csv module
-                values = list(csv.reader([line.rstrip("\r\n ")], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
 
-                # first line contains the headers
-                if pos == 0:
-                    # override headers if fieldNames is specified
-                    if self._fieldNames is not None:
-                        self._headers = self._expandFieldNames(len(values), self._fieldNames)
+                if self._skipBlank is False or not line.isspace():
+
+                    # parse the line using the csv module
+                    values = list(csv.reader([line.rstrip("\r\n ")], delimiter=self._delimiter, quotechar=self._quoteChar))[0]
+
+                    # first line contains the headers
+                    if pos == 0:
+                        # override headers if fieldNames is specified
+                        if self._fieldNames is not None:
+                            self._headers = self._expandFieldNames(len(values), self._fieldNames)
+                        else:
+                            self._headers = values
                     else:
-                        self._headers = values
-                else:
-                    # add position to row positions list
-                    self._rowPositions.append(pos)
-                    if self._indexFields is not None:
-                        for indexField in self._indexFields:
-                            if indexField in self._headers:
-                                # get the index of the field to be indexed
-                                i = self._headers.index(indexField)
-                                value = values[i]
-                                #  add the value to the index
-                                if value not in self._indexes[indexField]:
-                                    self._indexes[indexField][value] = [pos]
-                                else:
-                                    self._indexes[indexField][value].append(pos)
+                        # add position to row positions list
+                        self._rowPositions.append(pos)
+                        if self._indexFields is not None:
+                            for indexField in self._indexFields:
+                                if indexField in self._headers:
+                                    # get the index of the field to be indexed
+                                    i = self._headers.index(indexField)
+                                    value = values[i]
+                                    #  add the value to the index
+                                    if value not in self._indexes[indexField]:
+                                        self._indexes[indexField][value] = [pos]
+                                    else:
+                                        self._indexes[indexField][value].append(pos)
 
                 # increment the position with the length of the line in bytes
                 pos = pos + len(line.encode(self._encoding))

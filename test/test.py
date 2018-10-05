@@ -1,4 +1,7 @@
 import unittest
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../")))
 from csvreader import CSVReader
 
 class TestCSVReader(unittest.TestCase):
@@ -61,6 +64,12 @@ class TestCSVReader(unittest.TestCase):
     def testLen(self):
         occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"")
         self.assertTrue(len(occurrence) == 8434)
+
+    def testSkipBlank(self):
+        occurrence = CSVReader("data/occurrence_blanklines.txt", delimiter="\t", quoteChar="\"", indexFields=["institutionCode"], skipBlank=False)
+        self.assertTrue("" in occurrence.indexes()["institutionCode"])
+        occurrence = CSVReader("data/occurrence_blanklines.txt", delimiter="\t", quoteChar="\"", indexFields=["institutionCode"], skipBlank=True)
+        self.assertFalse("" in occurrence.indexes()["institutionCode"])
 
 if __name__ == "__main__":
     unittest.main()
