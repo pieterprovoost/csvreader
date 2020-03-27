@@ -7,7 +7,7 @@ Indexes and queries large CSV files.
 
 ```python
 from csvreader import CSVReader
-occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quoteChar="\"", indexFields=["scientificName"])
+occurrence = CSVReader("data/occurrence.txt", delimiter="\t", quote_char="\"", index_fields=["scientificName"])
 print occurrence.indexes()
 ```
 
@@ -22,7 +22,7 @@ print occurrence.indexes()
 ### Querying
 
 ```python
-for record in occurrence.getLines("scientificName", "Neomysis integer"):
+for record in occurrence.get_lines("scientificName", "Neomysis integer"):
     print record
 ```
 
